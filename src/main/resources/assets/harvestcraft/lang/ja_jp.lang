@@ -1,9 +1,5 @@
 itemGroup.harvestcraft=HarvestCraft
 
-
-harvestcraft.harvestcraft.tile.cuttingboard.name=まな板
-harvestcraft.tile.pot.name=ポット
-
 tile.beehive.name=蜂の巣
 tile.apiary.name=養蜂箱
 tile.presser.name=圧搾機
@@ -23,19 +19,8 @@ tile.grinder.name=グラインダー
 
 tile.crate.name=かご
 
-harvestcraft.tile.salt.name=岩塩鉱石
-harvestcraft.tile.pamcompressedsaltBlock.name=岩塩ブロック
-
 tile.market.name=市場
 tile.shippingbin.name=出荷かご
-
-harvestcraft.tile.oven.name=オーブン
-
-harvestcraft.tile.churn.name=攪拌器
-harvestcraft.tile.quern.name=挽臼
-harvestcraft.tile.watertrap.name=かご網
-harvestcraft.tile.groundtrap.name=箱罠
-harvestcraft.tile.dehydrator.name=食品乾燥機
 
 tile.aridgarden.name=乾いた茂み
 tile.frostgarden.name=霜の降りた茂み
@@ -86,7 +71,6 @@ tile.pamvanillabean.name=バニラビーンズ
 tile.pamwalnut.name=クルミ
 tile.pamgooseberry.name=スグリの実
 tile.pamspiderweb.name=蜘蛛の巣
-tile.pamtomato.name=トマト
 tile.almond_sapling.name=アーモンドの苗木
 tile.apple_sapling.name=リンゴの苗木
 tile.apricot_sapling.name=アンズの苗木
@@ -125,70 +109,6 @@ tile.walnut_sapling.name=クルミの苗木
 tile.gooseberry_sapling.name=スグリの苗木
 tile.spiderweb_sapling.name=蜘蛛の巣の苗木
 
-harvestcraft.tile.pamblackberrycrop.name=ブラックベリーの収穫物
-harvestcraft.tile.pamblueberrycrop.name=ブルーベリーの収穫物
-harvestcraft.tile.pamcandleberrycrop.name=キャンドルベリーの収穫物
-harvestcraft.tile.pamraspberrycrop.name=ラズベリーの収穫物
-harvestcraft.tile.pamstrawberrycrop.name=イチゴの収穫物
-harvestcraft.tile.pamcactusfruitcrop.name=ウチワサボテンの実の収穫物
-harvestcraft.tile.pamasparaguscrop.name=アスパラガスの収穫物
-harvestcraft.tile.pambarleycrop.name=大麦の収穫物
-harvestcraft.tile.pamoatscrop.name=オーツ麦の収穫物
-harvestcraft.tile.pamryecrop.name=ライ麦の収穫物
-harvestcraft.tile.pamcorncrop.name=トウモロコシの収穫物
-harvestcraft.tile.pambambooshootcrop.name=たけのこの収穫物
-harvestcraft.tile.pamcantaloupecrop.name=マスクメロンの収穫物
-harvestcraft.tile.pamcucumbercrop.name=キュウリの収穫物
-harvestcraft.tile.pamwintersquashcrop.name=ニホンカボチャの収穫物
-harvestcraft.tile.pamzucchinicrop.name=ズッキーニの収穫物
-harvestcraft.tile.pambeetcrop.name=ビートの収穫物
-harvestcraft.tile.pamonioncrop.name=タマネギの収穫物
-harvestcraft.tile.pamparsnipcrop.name=パースニップの収穫物
-harvestcraft.tile.pampeanutcrop.name=ピーナッツの収穫物
-harvestcraft.tile.pamradishcrop.name=ハツカダイコンの収穫物
-harvestcraft.tile.pamrutabagacrop.name=ルタバガの収穫物
-harvestcraft.tile.pamsweetpotatocrop.name=サツマイモの収穫物
-harvestcraft.tile.pamturnipcrop.name=カブの収穫物
-harvestcraft.tile.pamrhubarbcrop.name=ルバーブの収穫物
-harvestcraft.tile.pamcelerycrop.name=セロリの収穫物
-harvestcraft.tile.pamgarliccrop.name=ニンニクの収穫物
-harvestcraft.tile.pamgingercrop.name=生姜の収穫物
-harvestcraft.tile.pamspiceleafcrop.name=スパイスリーフの収穫物
-harvestcraft.tile.pamtealeafcrop.name=茶葉の収穫物
-harvestcraft.tile.pamcoffeebeancrop.name=コーヒー豆の収穫物
-harvestcraft.tile.pammustardseedscrop.name=からし菜の種の収穫物
-harvestcraft.tile.pambroccolicrop.name=ブロッコリーの収穫物
-harvestcraft.tile.pamcauliflowercrop.name=カリフラワーの収穫物
-harvestcraft.tile.pamleekcrop.name=ポロネギの収穫物
-harvestcraft.tile.pamlettucecrop.name=レタスの収穫物
-harvestcraft.tile.pamscallioncrop.name=ネギの収穫物
-harvestcraft.tile.pamartichokecrop.name=アーティチョークの収穫物
-harvestcraft.tile.pambrusselsproutcrop.name=芽キャベツの収穫物
-harvestcraft.tile.pamcabbagecrop.name=キャベツの収穫物
-harvestcraft.tile.pamspinachcrop.name=ホウレンソウの収穫物
-harvestcraft.tile.pamwhitemushroomcrop.name=ホワイトマッシュルームの収穫物
-harvestcraft.tile.pambeancrop.name=いんげん豆の収穫物
-harvestcraft.tile.pamsoybeancrop.name=大豆の収穫物
-harvestcraft.tile.pambellpeppercrop.name=ピーマンの収穫物
-harvestcraft.tile.pamchilipeppercrop.name=唐辛子の収穫物
-harvestcraft.tile.pameggplantcrop.name=ナスの収穫物
-harvestcraft.tile.pamokracrop.name=オクラの収穫物
-harvestcraft.tile.pampeascrop.name=えんどう豆の収穫物
-harvestcraft.tile.pamtomatocrop.name=トマトの収穫物
-harvestcraft.tile.pamcottoncrop.name=綿花の収穫物
-harvestcraft.tile.pampineapplecrop.name=パイナップルの収穫物
-harvestcraft.tile.pamgrapecrop.name=ブドウの収穫物
-harvestcraft.tile.pamkiwicrop.name=キウイの収穫物
-harvestcraft.tile.pamcranberrycrop.name=クランベリーの収穫物
-harvestcraft.tile.pamricecrop.name=稲の収穫物
-harvestcraft.tile.pamseaweedcrop.name=海藻の収穫物
-harvestcraft.tile.pamcurryleafcrop.name=カレーリーフの収穫物
-harvestcraft.tile.pamsesameseedscrop.name=ゴマの収穫物
-harvestcraft.tile.pamwaterchestnutcrop.name=白ぐわいの収穫物
-harvestcraft.tile.pamkalecrop.name=ケールの収穫物
-
-harvestcraft.tile.pampicklecrop.name=ピクルスの収穫物
-
 tile.candleDeco1.name=白色の蝋燭
 tile.candleDeco2.name=橙色の蝋燭
 tile.candleDeco3.name=赤紫色の蝋燭
@@ -220,17 +140,9 @@ tile.pumpkincheesecake.name=パンプキンチーズケーキ
 
 item.garliccoinitem.name=ガーリックコイン
 
-item.cottonitem.name=綿花
-item.wovencottonitem.name=綿布
-item.cottonseeditem.name=綿の種
-
 item.seedbagitem.name=種袋
 item.cropbagitem.name=収穫袋
 item.saplingbagitem.name=苗木袋
-
-item.candleberryitem.name=キャンドルベリー
-item.candleberryseeditem.name=キャンドルベリーの種
-item.waxitem.name=蝋
 
 item.hardenedleatherhelmitem.name=硬化レザーのヘルム
 item.hardenedleatherchestitem.name=硬化レザーのチェストプレート
@@ -268,7 +180,6 @@ item.minecraft:carrot.name=ニンジン
 item.minecraft:beetroot.name=ビートルート
 item.minecraft:melon.name=スイカ
 item.harvestpumpkinitem.name=カボチャ
-    
 item.minecraft:beef.name=生の牛肉
 item.minecraft:cooked_beef.name=ステーキ
 item.minecraft:chicken.name=生の鶏肉
@@ -296,7 +207,6 @@ item.minecraft:beetroot_soup.name=ビートルートスープ
 
 item.asparagusitem.name=アスパラガス
 item.asparagusseeditem.name=アスパラガスの種
-item.grilledasparagusitem.name=焼きアスパラガス
 item.barleyitem.name=大麦
 item.barleyseeditem.name=大麦の種
 item.beanitem.name=いんげん豆
@@ -333,7 +243,6 @@ item.radishitem.name=ハツカダイコン
 item.radishseeditem.name=ハツカダイコンの種
 item.riceitem.name=米
 item.riceseeditem.name=種籾
-item.ricecakeitem.name=餅
 item.rutabagaitem.name=ルタバガ
 item.rutabagaseeditem.name=ルタバガの種
 item.ryeitem.name=ライ麦
@@ -348,15 +257,13 @@ item.sunflowerseedsitem.name=ヒマワリの種 (食用)
 item.sunflowerseeditem.name=ヒマワリの種
 item.sweetpotatoitem.name=サツマイモ
 item.sweetpotatoseeditem.name=サツマイモの種
-item.bakedsweetpotatoitem.name=焼き芋
 item.tealeafitem.name=茶葉
 item.teaseeditem.name=チャノキの種
-item.teaitem.name=茶
 item.turnipitem.name=カブ
 item.turnipseeditem.name=カブの種
 item.whitemushroomitem.name=ホワイトマッシュルーム
 item.whitemushroomseeditem.name=ホワイトマッシュルームの胞子
-        
+
 item.artichokeitem.name=アーティチョーク
 item.artichokeseeditem.name=アーティチョークの種
 item.bellpepperitem.name=ピーマン
@@ -380,7 +287,6 @@ item.chilipepperitem.name=唐辛子
 item.chilipepperseeditem.name=唐辛子の種
 item.coffeebeanitem.name=コーヒー豆
 item.coffeeseeditem.name=コーヒーノキの種
-item.coffeeitem.name=コーヒー
 item.cornitem.name=トウモロコシ
 item.cornseeditem.name=トウモロコシの種
 item.popcornitem.name=ポップコーン
@@ -391,7 +297,6 @@ item.cucumberitem.name=キュウリ
 item.cucumberseeditem.name=キュウリの種
 item.eggplantitem.name=ナス
 item.eggplantseeditem.name=ナスの種
-item.grilledeggplantitem.name=焼きナス
 item.grapeitem.name=ブドウ
 item.grapeseeditem.name=ブドウの種
 item.raisinsitem.name=レーズン
@@ -432,7 +337,7 @@ item.kaleseeditem.name=ケールの種
 
 item.gigapickleitem.name=ギガピクルス
 item.gigapickleseeditem.name=ギガピクルスの種
-        
+
 item.almonditem.name=アーモンド
 item.apricotitem.name=アンズ
 item.avocadoitem.name=アボカド
@@ -477,7 +382,7 @@ item.grilledeggplantitem.name=焼きナス
 item.toastedcoconutitem.name=ローストココナッツ
 item.vanillaitem.name=バニラ
 item.toastedsesameseedsitem.name=煎りゴマ
-        
+
 item.saltitem.name=塩
 item.flouritem.name=小麦粉
 item.doughitem.name=生地
@@ -538,14 +443,14 @@ item.chocolateicecreamitem.name=チョコレートアイス
 item.vegetablesoupitem.name=野菜スープ
 item.stockitem.name=煮汁
 item.fruitsaladitem.name=フルーツサラダ
-        
+
 item.spagettiitem.name=スパゲッティ
 item.spagettiandmeatballsitem.name=スパゲッティウィズミートボール
 item.tomatosoupitem.name=トマトスープ
 item.ketchupitem.name=ケチャップ
 item.chickenparmasanitem.name=チキンパルミジャーノ
 item.pizzaitem.name=ピザ
-        
+
 item.springsaladitem.name=野菜サラダ
 item.porklettucewrapitem.name=豚肉のレタス包み
 item.fishlettucewrapitem.name=魚のレタス包み
@@ -554,7 +459,7 @@ item.leafychickensandwichitem.name=レタスチキンバーガー
 item.leafyfishsandwichitem.name=レタスフィッシュバーガー
 item.deluxecheeseburgeritem.name=デラックスチーズバーガー
 item.delightedmealitem.name=デラックスセット
-        
+
 item.onionsoupitem.name=オニオンスープ
 item.potatocakesitem.name=ハッシュドポテト
 item.hashitem.name=ハッシュ
@@ -569,24 +474,24 @@ item.nachoesitem.name=ナチョス
 item.tacoitem.name=タコス
 item.fishtacoitem.name=フィッシュタコス
 item.creamedcornitem.name=クリームドコーン
-        
+
 item.strawberrysmoothieitem.name=イチゴスムージー
 item.strawberrypieitem.name=ストロベリーパイ
 item.strawberrysaladitem.name=イチゴサラダ
 item.strawberryjuiceitem.name=イチゴジュース
 item.chocolatestrawberryitem.name=チョコがけイチゴ
-        
+
 item.peanutbutteritem.name=ピーナッツバター
 item.trailmixitem.name=トレイルミックス
 item.pbandjitem.name=ピーナッツバターとジャムのサンドイッチ
 item.peanutbuttercookiesitem.name=ピーナッツバタークッキー
-        
+
 item.grapejuiceitem.name=ブドウジュース
 item.vinegaritem.name=ワインビネガー
 item.grapejellyitem.name=ブドウジャム
 item.grapesaladitem.name=ブドウサラダ
 item.raisincookiesitem.name=レーズンクッキー
-        
+
 item.picklesitem.name=ピクルス
 item.cucumbersaladitem.name=キュウリのサラダ
 item.cucumbersoupitem.name=キュウリのポタージュ
@@ -598,24 +503,24 @@ item.friedriceitem.name=炒飯
 item.mushroomrisottoitem.name=マッシュルームリゾット
 item.curryitem.name=タイカレー
 item.rainbowcurryitem.name=レインボーカレー
-        
+
 item.refriedbeansitem.name=フリホレス・レフリトス
 item.bakedbeansitem.name=ベイクドビーンズ
 item.beansandriceitem.name=ライスアンドピーズ
 item.chiliitem.name=チリコンカーン
 item.beanburritoitem.name=いんげん豆のブリトー
-        
+
 item.stuffedpepperitem.name=ピーマンの野菜詰め
 item.veggiestirfryitem.name=野菜炒め丼
 item.grilledskewersitem.name=野菜の串焼き
 item.supremepizzaitem.name=特上ピザ
 item.omeletitem.name=オムレツ
-        
+
 item.hotwingsitem.name=バッファローウィング
 item.chilipoppersitem.name=唐辛子のチーズ詰め揚げ
 item.extremechiliitem.name=激辛チリコンカーン
 item.chilichocolateitem.name=チリペッパーチョコ
-        
+
 item.lemonaideitem.name=レモネード
 item.lemonbaritem.name=レモンバー
 item.fishdinneritem.name=魚のムニエル
@@ -623,208 +528,208 @@ item.lemonsmoothieitem.name=レモンスムージー
 item.lemonmeringueitem.name=レモンメレンゲパイ
 item.candiedlemonitem.name=レモンの砂糖漬け
 item.lemonchickenitem.name=レモンチキン
-        
+
 item.blueberrysmoothieitem.name=ブルーベリースムージー
 item.blueberrypieitem.name=ブルーベリーパイ
 item.blueberrymuffinitem.name=ブルーベリーマフィン
 item.blueberryjuiceitem.name=ブルーベリージュース
 item.pancakesitem.name=パンケーキ
 item.blueberrypancakesitem.name=ブルーベリーパンケーキ
-        
+
 item.cherryjuiceitem.name=サクランボジュース
 item.cherrypieitem.name=チェリーパイ
 item.chocolatecherryitem.name=チョコがけサクランボ
 item.cherrysmoothieitem.name=サクランボスムージー
 item.cheesecakeitem.name=チーズケーキ
 item.cherrycheesecakeitem.name=サクランボチーズケーキ
-        
+
 item.stuffedeggplantitem.name=ナスの野菜詰め
 item.eggplantparmitem.name=ナスのパルミジャーノ
-        
+
 item.raspberryicedteaitem.name=ラズベリーアイスティー
 item.chaiteaitem.name=チャイ
-        
+
 item.espressoitem.name=エスプレッソ
 item.coffeeconlecheitem.name=カフェ・ラッテ
 item.mochaicecreamitem.name=モカアイスクリーム
-        
+
 item.pickledbeetsitem.name=ビートのピクルス
 item.beetsaladitem.name=ビートサラダ
 item.beetsoupitem.name=ボルシチ
 item.bakedbeetsitem.name=焼きビート
-        
+
 item.broccolimacitem.name=ブロッコリーのマカロニアンドチーズ
 item.broccolindipitem.name=ブロッコリーとディップ
 item.creamedbroccolisoupitem.name=ブロッコリーのクリームシチュー
-        
+
 item.sweetpotatopieitem.name=スイートポテトパイ
 item.candiedsweetpotatoesitem.name=サツマイモの甘露煮
 item.mashedsweetpotatoesitem.name=サツマイモのマッシュポテト
-        
+
 item.steamedpeasitem.name=蒸しグリーンピース
 item.splitpeasoupitem.name=挽き割りえんどう豆のスープ
-        
+
 item.pineappleupsidedowncakeitem.name=パイナップルのアップサイドダウンケーキ
 item.pineapplehamitem.name=ハワイ風ハムステーキ
 item.pineappleyogurtitem.name=パイナップルヨーグルト
-        
+
 item.turnipsoupitem.name=カブのポタージュ
 item.roastedrootveggiemedleyitem.name=焼き根菜の盛り合わせ
 item.bakedturnipsitem.name=焼きカブ
-        
+
 item.gingerbreaditem.name=ジンジャーブレッド
 item.gingersnapsitem.name=ジンジャースナップクッキー
 item.candiedgingeritem.name=生姜の砂糖漬け
-        
+
 item.mustarditem.name=マスタード
 item.softpretzelandmustarditem.name=ソフトプレッツェルとマスタード
 item.spicymustardporkitem.name=豚肉のマスタード焼き
 item.spicygreensitem.name=スパイシー焼きサラダ
-        
+
 item.garlicbreaditem.name=ガーリックトースト
 item.garlicmashedpotatoesitem.name=ガーリックマッシュポテト
 item.garlicchickenitem.name=ガーリックチキン
-        
+
 item.summerradishsaladitem.name=ハツカダイコンのサラダ
 item.summersquashwithradishitem.name=カボチャとハツカダイコンのサラダ
-        
+
 item.celeryandpeanutbutteritem.name=セロリのピーナッツバター詰め
 item.chickencelerycasseroleitem.name=チキンとセロリのキャセロール
 item.peasandceleryitem.name=えんどう豆とセロリのサラダ
 item.celerysoupitem.name=セロリのスープ
-        
+
 item.zucchinibreaditem.name=ズッキーニブレッド
 item.zucchinifriesitem.name=フライドズッキーニ
 item.zestyzucchiniitem.name=ズッキーニのペペロンチーノ
 item.zucchinibakeitem.name=ズッキーニのグラタン
-        
+
 item.asparagusquicheitem.name=アスパラガスのキッシュ
 item.asparagussoupitem.name=アスパラガスのポタージュ
-        
+
 item.walnutraisinbreaditem.name=クルミレーズンパン
 item.candiedwalnutsitem.name=クルミのキャラメリゼ
 item.brownieitem.name=ブラウニー
-        
+
 item.papayajuiceitem.name=パパイヤジュース
 item.papayasmoothieitem.name=パパイヤスムージー
 item.papayayogurtitem.name=パパイヤヨーグルト
-        
+
 item.starfruitjuiceitem.name=スターフルーツジュース
 item.starfruitsmoothieitem.name=スターフルーツスムージー
 item.starfruityogurtitem.name=スターフルーツヨーグルト
-        
+
 item.guacamoleitem.name=ワカモレ
 item.creamofavocadosoupitem.name=コロンビア風クリーミーアボカドスープ
 item.avocadoburritoitem.name=アボカドブリトー
-        
+
 item.poachedpearitem.name=洋梨のコンポート
 item.fruitcrumbleitem.name=フルーツクランブル
 item.pearyogurtitem.name=洋梨ヨーグルト
 item.plumyogurtitem.name=梅ヨーグルト
-        
+
 item.bananasplititem.name=バナナスプリット
 item.banananutbreaditem.name=バナナナッツブレッド
 item.bananasmoothieitem.name=バナナスムージー
 item.bananayogurtitem.name=バナナヨーグルト
-        
+
 item.coconutmilkitem.name=ココナッツミルク
 item.chickencurryitem.name=タイ風チキンカレー
 item.coconutshrimpitem.name=クランチーココナッツシュリンプ
 item.coconutyogurtitem.name=ココナッツヨーグルト
-        
+
 item.orangejuiceitem.name=オレンジジュース
 item.orangechickenitem.name=陳皮鶏
 item.orangesmoothieitem.name=オレンジスムージー
 item.orangeyogurtitem.name=オレンジヨーグルト
-        
+
 item.peachjuiceitem.name=桃のジュース
 item.peachcobbleritem.name=ピーチコブラー
 item.peachsmoothieitem.name=桃のスムージー
 item.peachyogurtitem.name=桃のヨーグルト
-        
+
 item.limejuiceitem.name=ライムジュース
 item.keylimepieitem.name=キーライムパイ
 item.limesmoothieitem.name=ライムスムージー
 item.limeyogurtitem.name=ライムヨーグルト
-        
+
 item.mangojuiceitem.name=マンゴージュース
 item.mangosmoothieitem.name=マンゴースムージー
 item.mangoyogurtitem.name=マンゴーヨーグルト
-        
+
 item.pomegranatejuiceitem.name=ザクロジュース
 item.pomegranatesmoothieitem.name=ザクロスムージー
 item.pomegranateyogurtitem.name=ザクロヨーグルト
-        
+
 item.vanillayogurtitem.name=バニラヨーグルト
-        
+
 item.cinnamonrollitem.name=シナモンロール
 item.frenchtoastitem.name=フレンチトースト
-        
+
 item.marshmellowsitem.name=マシュマロ
 item.donutitem.name=ドーナツ
 item.chocolatedonutitem.name=チョコレートドーナツ
 item.powdereddonutitem.name=粉砂糖をまぶしたドーナツ
 item.jellydonutitem.name=ジャムドーナツ
 item.frosteddonutitem.name=スプリンクルを振ったドーナツ
-        
+
 item.cactussoupitem.name=サボテンスープ
 item.wafflesitem.name=ワッフル
 item.seedsoupitem.name=種スープ
 item.softpretzelitem.name=ソフトプレッツェル
 item.jellybeansitem.name=ジェリービーンズ
 item.biscuititem.name=ホットビスケット
-        
+
 item.creamcookieitem.name=オレオ
 item.jaffaitem.name=ジャファケーキ
 item.friedchickenitem.name=フライドチキン
 item.chocolatesprinklecakeitem.name=スプリンクルを振ったチョコレートケーキ
 item.redvelvetcakeitem.name=レッドベルベットケーキ
 item.footlongitem.name=フットロングサンドイッチ
-        
+
 item.blueberryyogurtitem.name=ブルーベリーヨーグルト
 item.lemonyogurtitem.name=レモンヨーグルト
 item.cherryyogurtitem.name=サクランボヨーグルト
 item.strawberryyogurtitem.name=イチゴヨーグルト
 item.grapeyogurtitem.name=ブドウヨーグルト
 item.chocolateyogurtitem.name=ココアヨーグルト
-        
+
 item.blackberryjuiceitem.name=ブラックベリージュース
 item.blackberrycobbleritem.name=ブラックベリーコブラー
 item.blackberrysmoothieitem.name=ブラックベリースムージー
 item.blackberryyogurtitem.name=ブラックベリーヨーグルト
 item.chocolatemilkitem.name=ココアミルク
 item.pumpkinyogurtitem.name=カボチャヨーグルト
-        
+
 item.raspberryjuiceitem.name=ラズベリージュース
 item.raspberrypieitem.name=ラズベリーパイ
 item.raspberrysmoothieitem.name=ラズベリースムージー
 item.raspberryyogurtitem.name=ラズベリーヨーグルト
 item.cinnamonsugardonutitem.name=シナモンシュガードーナツ
 item.melonyogurtitem.name=スイカヨーグルト
-        
+
 item.kiwijuiceitem.name=キウイジュース
 item.kiwismoothieitem.name=キウイスムージー
 item.kiwiyogurtitem.name=キウイヨーグルト
 item.plainyogurtitem.name=プレーンヨーグルト
 item.appleyogurtitem.name=リンゴヨーグルト
-        
+
 item.saltedsunflowerseedsitem.name=塩を振ったヒマワリの種
 item.sunflowerwheatrollsitem.name=ヒマワリの種ロールパン
 item.sunflowerbroccolisaladitem.name=ヒマワリの種とブロッコリーのサラダ
-        
+
 item.cranberryjuiceitem.name=クランベリージュース
 item.cranberrysauceitem.name=クランベリージャム
 item.cranberrybaritem.name=クランベリーバー
-        
+
 item.peppermintitem.name=ペパーミント
-        
+
 item.cactusfruitjuiceitem.name=サボテンの実ジュース
-        
+
 item.blackpepperitem.name=黒胡椒
 item.groundcinnamonitem.name=シナモンパウダー
 item.groundnutmegitem.name=ナツメグパウダー
 item.oliveoilitem.name=食用油
-        
+
 item.baklavaitem.name=バクラヴァ
 item.gummybearsitem.name=グミベア
 item.baconmushroomburgeritem.name=ベーコンマッシュルームバーガー
@@ -838,15 +743,15 @@ item.eggnogitem.name=エッグノッグ
 item.custarditem.name=カスタードプリン
 item.sushiitem.name=寿司
 item.gardensoupitem.name=菜園風スープ
-        
+
 item.freshwateritem.name=新鮮な水
 item.freshmilkitem.name=新鮮な牛乳
-        
+
 item.muttonrawitem.name=生の羊肉
 item.muttoncookeditem.name=焼き羊肉
 item.calamarirawitem.name=生のイカ
 item.calamaricookeditem.name=焼きイカ
-        
+
 item.applejellyitem.name=リンゴジャム
 item.applejellysandwichitem.name=リンゴジャムのサンドイッチ
 item.blackberryjellyitem.name=ブラックベリージャム
@@ -881,7 +786,7 @@ item.strawberryjellyitem.name=イチゴジャム
 item.strawberryjellysandwichitem.name=イチゴジャムのサンドイッチ
 item.watermelonjellyitem.name=スイカジャム
 item.watermelonjellysandwichitem.name=スイカジャムのサンドイッチ
-        
+
 item.bubblywateritem.name=炭酸水
 item.cherrysodaitem.name=チェリーソーダ
 item.colasodaitem.name=コーラ
@@ -891,16 +796,16 @@ item.lemonlimesodaitem.name=レモンライムソーダ
 item.orangesodaitem.name=オレンジソーダ
 item.rootbeersodaitem.name=ルートビア
 item.strawberrysodaitem.name=ストロベリーソーダ
-        
+
 item.caramelicecreamitem.name=キャラメルアイスクリーム
 item.mintchocolatechipicecreamitem.name=チョコミントアイスクリーム
 item.strawberryicecreamitem.name=イチゴアイスクリーム
 item.vanillaicecreamitem.name=バニラアイスクリーム
-        
+
 item.ediblerootitem.name=ハーブの根
-        
+
 item.gingerchickenitem.name=鶏の生姜焼き
-        
+
 item.oldworldveggiesoupitem.name=昔ながらの野菜スープ
 item.spicebunitem.name=スパイスの効いたスイートロール
 item.gingeredrhubarbtartitem.name=ジンジャー入りルバーブタルト
@@ -996,7 +901,7 @@ item.snickersbaritem.name=スニッカーズ
 item.spinachpieitem.name=ホウレンソウのパイ
 item.steamedspinachitem.name=蒸しホウレンソウ
 item.vegemiteontoastitem.name=ベジマイトを塗ったトースト
-    
+
 item.anchovyrawitem.name=生のカタクチイワシ
 item.bassrawitem.name=生のバス
 item.carprawitem.name=生のコイ
@@ -1034,7 +939,6 @@ item.scallopcookeditem.name=焼きホタテ
 item.shrimpcookeditem.name=焼きエビ
 item.snailcookeditem.name=焼きエスカルゴ
 item.turtlecookeditem.name=焼きウミガメ
-    
 item.applecideritem.name=アップルサイダー
 item.bangersandmashitem.name=バンガーズアンドマッシュ
 item.batteredsausageitem.name=ソーセージのバター焼き
@@ -1400,19 +1304,169 @@ item.strawberryrhubarbpieitem.name=イチゴとルバーブのパイ
 item.tiropitaitem.name=ティロピタ
 item.rosepetalteaitem.name=ローズペタルティー
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+tooltip.well_block=Oh, maybe not very useful. - Sjin
+tooltip.pot_item=How do I make a pot, Pam?! - Lewis
+tooltip.top_tier_food_item=Top Tier Food: Always Edible: Buffs Player
+tile.pamhazelnut.name=Hazelnut
+tile.pampawpaw.name=Pawpaw
+tile.pamsoursop.name=Soursop
+tile.pambreadfruit.name=Breadfruit
+tile.pamguava.name=Guava
+tile.pamjackfruit.name=Jackfruit
+tile.pamlychee.name=Lychee
+tile.pampassionfruit.name=Passionfruit
+tile.pamrambutan.name=Rambutan
+tile.pamtamarind.name=Tamarind
+tile.hazelnut_sapling.name=Hazelnut Sapling
+tile.pawpaw_sapling.name=Pawpaw Sapling
+tile.soursop_sapling.name=Soursop Sapling
+tile.breadfruit_sapling.name=Breadfruit Sapling
+tile.guava_sapling.name=Guava Sapling
+tile.jackfruit_sapling.name=Jackfruit Sapling
+tile.lychee_sapling.name=Lychee Sapling
+tile.passionfruit_sapling.name=Passion Fruit Sapling
+tile.rambutan_sapling.name=Rambutan Sapling
+tile.tamarind_sapling.name=Tamarind Sapling
+item.agaveitem.name=Agave
+item.agaveseeditem.name=Agave Seed
+item.amaranthitem.name=Amaranth
+item.amaranthseeditem.name=Amaranth Seed
+item.arrowrootitem.name=Arrowroot
+item.arrowrootseeditem.name=Arrowroot Seed
+item.cassavaitem.name=Cassava
+item.cassavaseeditem.name=Cassava Seed
+item.chickpeaitem.name=Chickpeas
+item.chickpeaseeditem.name=Chickpea Seed
+item.elderberryitem.name=Elderberry
+item.elderberryseeditem.name=Elderberry Seed
+item.flaxitem.name=Flax
+item.flaxseeditem.name=Flax Seed
+item.greengrapeitem.name=Green Grape
+item.greengrapeseeditem.name=Green Grape Seed
+item.huckleberryitem.name=Huckleberry
+item.huckleberryseeditem.name=Huckleberry Seed
+item.jicamaitem.name=Jicama
+item.jicamaseeditem.name=Jicama Seed
+item.juteitem.name=Jute
+item.juteseeditem.name=Jute Seed
+item.kenafitem.name=Kenaf
+item.kenafseeditem.name=Kenaf Seed
+item.kohlrabiitem.name=Kohlrabi
+item.kohlrabiseeditem.name=Kohlrabi Seed
+item.lentilitem.name=Lentils
+item.lentilseeditem.name=Lentil Seed
+item.milletitem.name=Millet
+item.milletseeditem.name=Millet Seed
+item.mulberryitem.name=Mulberry
+item.mulberryseeditem.name=Mulberry Seed
+item.quinoaitem.name=Quinoa
+item.quinoaseeditem.name=Quinoa Seed
+item.sisalitem.name=Sisal
+item.sisalseeditem.name=Sisal Seed
+item.taroitem.name=Taro
+item.taroseeditem.name=Taro Seed
+item.tomatilloitem.name=Tomatillo
+item.tomatilloseeditem.name=Tomatillo Seed
+item.juniperberryitem.name=Juniperberry
+item.juniperberryseeditem.name=Juniperberry Seed
+item.hazelnutitem.name=Hazelnut
+item.pawpawitem.name=Pawpaw
+item.soursopitem.name=Soursop
+item.breadfruititem.name=Breadfruit
+item.guavaitem.name=Guava
+item.jackfruititem.name=Jackfruit
+item.lycheeitem.name=Lychee
+item.passionfruititem.name=Passion Fruit
+item.rambutanitem.name=Rambutan
+item.tamarinditem.name=Tamarind
+item.potatoskinsitem.name=Potato Skins
+item.chilidonutitem.name=Chili Donut
+item.bbqsauceitem.name=BBQ Sauce
+item.vanillacupcakeitem.name=Vanilla Cupcake
+item.chocolatecupcakeitem.name=Chocolate Cupcake
+item.carrotcupcakeitem.name=Carrot Cupcake
+item.redvelvetcupcakeitem.name=Red Velvet Cupcake
+item.chilicupcakeitem.name=Chili Cupcake
+item.peanutbuttercupcakeitem.name=Peanut Butter Cupcake
+item.lemoncupcakeitem.name=Lemon Cupcake
+item.strawberrycupcakeitem.name=Strawberry Cupcake
+item.mintcupcakeitem.name=Mint Cupcake
+item.coffeecupcakeitem.name=Coffee Cupcake
+item.sprinklescupcakeitem.name=Sprinkles Cupcake
+item.caramelcupcakeitem.name=Caramel Cupcake
+item.cherryslushieitem.name=Cherry Slushie
+item.pambitsboxitem.name=Pam Bits Box
+item.stuffedchilipeppersitem.name=Stuffed Chili Peppers
+item.slimegummiesitem.name=Slime Gummies
+item.chocolatepuddingitem.name=Chocolate Pudding
+item.bbqchickenpizzaitem.name=BBQ Chicken Pizza
+item.quesadillaitem.name=Quesadilla
+item.mashedpotatoeschickenbiscuititem.name=Mashed Potatoes and Chicken Biscuit
+item.cheesesteakitem.name=Cheesesteak
+item.bibimbapitem.name=Bibimbap
+item.shrimpcocktailitem.name=Shrimp Cocktail
+item.swedishmeatballsitem.name=Swedish Meatballs
+item.nopalessaladitem.name=Nopales Salad
+item.meringueitem.name=Meringue
+item.applesnowitem.name=Apple Snow
+item.bakedalaskaitem.name=Baked Alaska
+item.berrymeringuenestitem.name=Berry Meringue Nest
+item.etonmessitem.name=Eton Mess
+item.meringuebombeitem.name=Meringue Bombe
+item.meringuebrownieitem.name=Meringue Brownie
+item.meringuecookieitem.name=Meringue Cookie
+item.meringuerouladeitem.name=Meringue Roulade
+item.merveilleuxitem.name=Merveilleux
+item.bbqjackfruititem.name=BBQ Jackfruit
+item.bentoboxitem.name=Bento Box
+item.timpanoitem.name=Timpano
+item.friedfeastitem.name=Fried Feast
+item.mushroomketchupomeletitem.name=Mushroom Ketchup Omelet
+item.mushroomketchupitem.name=Mushroom Ketchup
+item.lycheeteaitem.name=Lychee Tea
+item.baconwrappedchiliitem.name=Bacon Wrapped Chili
+item.buttertartitem.name=Butter Tart
+item.seedenergygelitem.name=Seed Energy Gel
+item.chickencordonbleuitem.name=Chicken Cordon Bleu
+item.sundayhighteaitem.name=Sunday High Tea
+item.battenbergitem.name=Battenberg
+item.cucumbersandwichitem.name=Cucumber Sandwich
+item.slawdogitem.name=Slaw Dog
+item.dandelionsaladitem.name=Dandelion Salad
+item.peanutsoupitem.name=Peanut Soup
+item.vanillaconchasbreaditem.name=Vanilla Conchas Bread
+item.chocolatecoconutbaritem.name=Chocolate Coconut Bar
+item.strawberrysouffleitem.name=Strawberry Soufflé
+item.gyudonitem.name=Gyudon
+item.shrimptemperaitem.name=Shrimp Tempura
+item.imagawayakiitem.name=Imagawayaki
+item.mochicakeitem.name=Mochi Cake
+item.mochidessertitem.name=Mochi Dessert
+item.taiyakiitem.name=Taiyaki
+item.salmononigiriitem.name=Salmon Onigiri
+item.tunaonigiriitem.name=Tuna Onigiri
+item.friedbolognasandwichitem.name=Fried Bologna Sandwich
+item.bolognasandwichitem.name=Bologna Sandwich
+item.ricepuddingitem.name=Rice Pudding
+item.musubiitem.name=Musubi
+item.cassouletitem.name=Cassoulet
+item.imitationcrabsticksitem.name=Imitation Crab Sticks
+item.misopasteitem.name=Miso Paste
+item.dandelionteaitem.name=Dandelion Tea
+item.rivermudcakeitem.name=River Mud Cake
+item.gravlaxitem.name=Gravlax
+item.cheesedanishitem.name=Cheese Danish
+item.schnitzelitem.name=Schnitzel
+item.bratwurstitem.name=Bratwurst
+item.bolognaitem.name=Bologna
+item.raspberrymilkshakeitem.name=Raspberry Milk Shake
+item.pumpkinspicelatteitem.name=Pumpkin Spice Latte
+item.rootbeerfloatitem.name=Root Beer Float
+item.hotcocoaitem.name=Hot Cocoa
+item.cinnamonbreaditem.name=Cinnamon Bread
+item.fruitcakeitem.name=Fruit Cake
+item.cornchipsitem.name=Corn Chips
+item.marshmellowchicksitem.name=Marshmellow Chicks
+item.bbqchickenbiscuititem.name=BBQ Chicken Biscuit
+item.chickenbiscuititem.name=Chicken Biscuit
+item.pizzasliceitem.name=Pizza Slice

@@ -5,7 +5,7 @@ import java.util.List;
 import javax.annotation.Nullable;
 
 import com.pam.harvestcraft.HarvestCraft;
-import com.pam.harvestcraft.Reference;
+//import com.pam.harvestcraft.Reference;
 import com.pam.harvestcraft.config.ConfigHandler;
 import com.pam.harvestcraft.item.ItemRegistry;
 
@@ -19,7 +19,7 @@ import net.minecraft.potion.Potion;
 import net.minecraft.potion.PotionEffect;
 import net.minecraft.util.text.TextFormatting;
 import net.minecraft.world.World;
-import net.minecraftforge.fml.common.FMLLog;
+//import net.minecraftforge.fml.common.FMLLog;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
@@ -87,7 +87,7 @@ public class ItemPamTopTierFood extends ItemFood {
     public void addInformation(ItemStack stack, @Nullable World worldIn, List<String> tooltip, ITooltipFlag flagIn)
     {
         super.addInformation(stack, worldIn, tooltip, flagIn);
-        tooltip.add(TextFormatting.GOLD + "Top Tier Food: Always Edible: Buffs Player");
+        tooltip.add(TextFormatting.GOLD + I18n.format("tooltip.top_tier_food_item"));
     }
 
 }

@@ -6,6 +6,7 @@ import javax.annotation.Nullable;
 
 import com.pam.harvestcraft.item.ItemRegistry;
 
+import net.minecraft.client.resources.I18n;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -25,7 +26,7 @@ public class ItemPamTool extends Item {
     	if(this == ItemRegistry.potItem)
     	{
     		super.addInformation(stack, worldIn, tooltip, flagIn);
-            tooltip.add(TextFormatting.GOLD + "How do I make a pot, Pam?! - Lewis");
+            tooltip.add(TextFormatting.GOLD + I18n.format("tooltip.pot_item"));
     	}
         
     }

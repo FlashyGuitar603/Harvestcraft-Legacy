@@ -1,9 +1,5 @@
 itemGroup.harvestcraft=潘的豐收模組
 
-
-harvestcraft.harvestcraft.tile.cuttingboard.name=砧板
-harvestcraft.tile.pot.name=鍋
-
 tile.beehive.name=蜂窩
 tile.apiary.name=蜂房
 tile.presser.name=壓制機
@@ -23,19 +19,8 @@ tile.grinder.name=絞肉機
 
 tile.crate.name=木板箱
 
-harvestcraft.tile.salt.name=鹽礦
-harvestcraft.tile.pamcompressedsaltblock.name=鹽塊
-
 tile.market.name=市場
 tile.shippingbin.name=出貨箱
-
-harvestcraft.tile.oven.name=烤箱
-
-harvestcraft.tile.churn.name=攪拌機
-harvestcraft.tile.quern.name=石磨
-harvestcraft.tile.fishtrap.name=漁柵
-harvestcraft.tile.animaltrap.name=陷阱
-harvestcraft.tile.dehydrator.name=脫水劑
 
 tile.aridgarden.name=貧瘠菜園
 tile.frostgarden.name=嚴寒菜園
@@ -145,70 +130,6 @@ tile.passionfruit_sapling.name=百香果樹苗
 tile.rambutan_sapling.name=紅毛丹樹苗
 tile.tamarind_sapling.name=羅望子樹苗
 
-harvestcraft.tile.pamblackberrycrop.name=黑莓作物
-harvestcraft.tile.pamblueberrycrop.name=藍莓作物
-harvestcraft.tile.pamcandleberrycrop.name=楊梅作物
-harvestcraft.tile.pamraspberrycrop.name=覆盆子作物
-harvestcraft.tile.pamstrawberrycrop.name=草莓作物
-harvestcraft.tile.pamcactusfruitcrop.name=仙人掌果作物
-harvestcraft.tile.pamasparaguscrop.name=蘆筍作物
-harvestcraft.tile.pambarleycrop.name=大麥作物
-harvestcraft.tile.pamoatscrop.name=燕麥作物
-harvestcraft.tile.pamryecrop.name=黑麥作物
-harvestcraft.tile.pamcorncrop.name=玉米作物
-harvestcraft.tile.pambambooshootcrop.name=竹筍作物
-harvestcraft.tile.pamcantaloupecrop.name=哈密瓜作物
-harvestcraft.tile.pamcucumbercrop.name=小黃瓜作物
-harvestcraft.tile.pamwintersquashcrop.name=冬瓜作物
-harvestcraft.tile.pamzucchinicrop.name=櫛瓜作物
-harvestcraft.tile.pambeetcrop.name=甜菜作物
-harvestcraft.tile.pamonioncrop.name=洋蔥作物
-harvestcraft.tile.pamparsnipcrop.name=防風草作物
-harvestcraft.tile.pampeanutcrop.name=花生作物
-harvestcraft.tile.pamradishcrop.name=櫻桃蘿蔔作物
-harvestcraft.tile.pamrutabagacrop.name=蕪菁甘藍作物
-harvestcraft.tile.pamsweetpotatocrop.name=番薯作物
-harvestcraft.tile.pamturnipcrop.name=蕪菁作物
-harvestcraft.tile.pamrhubarbcrop.name=大黃作物
-harvestcraft.tile.pamcelerycrop.name=芹菜作物
-harvestcraft.tile.pamgarliccrop.name=大蒜作物
-harvestcraft.tile.pamgingercrop.name=生薑作物
-harvestcraft.tile.pamspiceleafcrop.name=香料作物
-harvestcraft.tile.pamtealeafcrop.name=茶葉作物
-harvestcraft.tile.pamcoffeebeancrop.name=咖啡豆作物
-harvestcraft.tile.pammustardseedscrop.name=芥菜籽作物
-harvestcraft.tile.pambroccolicrop.name=青花菜作物
-harvestcraft.tile.pamcauliflowercrop.name=花椰菜作物
-harvestcraft.tile.pamleekcrop.name=韭菜作物
-harvestcraft.tile.pamlettucecrop.name=萵苣作物
-harvestcraft.tile.pamscallioncrop.name=青蔥作物
-harvestcraft.tile.pamartichokecrop.name=洋薊作物
-harvestcraft.tile.pambrusselsproutcrop.name=球芽甘藍作物
-harvestcraft.tile.pamcabbagecrop.name=高麗菜作物
-harvestcraft.tile.pamspinachcrop.name=菠菜作物
-harvestcraft.tile.pamwhitemushroomcrop.name=白蘑菇作物
-harvestcraft.tile.pambeancrop.name=豆子作物
-harvestcraft.tile.pamsoybeancrop.name=黃豆作物
-harvestcraft.tile.pambellpeppercrop.name=甜椒作物
-harvestcraft.tile.pamchilipeppercrop.name=辣椒作物
-harvestcraft.tile.pameggplantcrop.name=茄子作物
-harvestcraft.tile.pamokracrop.name=秋葵作物
-harvestcraft.tile.pampeascrop.name=豌豆作物
-harvestcraft.tile.pamtomatocrop.name=番茄作物
-harvestcraft.tile.pamcottoncrop.name=棉花作物
-harvestcraft.tile.pampineapplecrop.name=鳳梨作物
-harvestcraft.tile.pamgrapecrop.name=葡萄作物
-harvestcraft.tile.pamkiwicrop.name=奇異果作物
-harvestcraft.tile.pamcranberrycrop.name=蔓越莓作物
-harvestcraft.tile.pamricecrop.name=水稻作物
-harvestcraft.tile.pamseaweedcrop.name=海草作物
-harvestcraft.tile.pamcurryleafcrop.name=咖哩葉作物
-harvestcraft.tile.pamsesameseedscrop.name=芝麻作物
-harvestcraft.tile.pamwaterchestnutcrop.name=荸薺作物
-harvestcraft.tile.pamkalecrop.name=羽衣甘藍作物
-
-harvestcraft.tile.pampicklecrop.name=醃菜作物
-
 tile.candleDeco1.name=白色蠟燭
 tile.candleDeco2.name=橙色蠟燭
 tile.candleDeco3.name=洋紅色蠟燭
@@ -226,31 +147,11 @@ tile.candleDeco14.name=綠色蠟燭
 tile.candleDeco15.name=紅色蠟燭
 tile.candleDeco16.name=黑色蠟燭
 
-tile.pamcarrotcake.name=胡蘿蔔蛋糕
-tile.pamcheesecake.name=起司蛋糕
-tile.pamcherrycheesecake.name=櫻桃起司蛋糕
-tile.pampineappleupsidedowncake.name=鳳梨翻轉蛋糕
-tile.pamchocolatesprinklecake.name=彩虹巧克力蛋糕
-tile.pamredvelvetcake.name=紅絲絨蛋糕
-tile.pamlamingtoncake.name=萊明頓蛋糕
-tile.pampavlovacake.name=帕夫洛娃蛋糕
-tile.pamholidaycake.name=節慶蛋糕
-tile.pampumpkincheesecake.name=南瓜起司蛋糕
-
-
 item.garliccoinitem.name=大蒜硬幣
-
-item.cottonitem.name=棉花
-item.wovencottonitem.name=梭織棉
-item.cottonseeditem.name=棉花種子
 
 item.seedbagitem.name=種子袋
 item.cropbagitem.name=作物袋
 item.saplingbagitem.name=樹苗袋
-
-item.candleberryitem.name=楊梅
-item.candleberryseeditem.name=楊梅種子
-item.waxitem.name=蠟
 
 item.hardenedleatherhelmitem.name=硬皮頭盔
 item.hardenedleatherchestitem.name=硬皮胸甲
@@ -288,7 +189,7 @@ item.minecraft:carrot.name=胡蘿蔔
 item.minecraft:beetroot.name=甜菜根
 item.minecraft:melon.name=西瓜片
 item.harvestpumpkinitem.name=南瓜
-    
+
 item.minecraft:beef.name=生牛肉
 item.minecraft:cooked_beef.name=牛排
 item.minecraft:chicken.name=生雞肉
@@ -316,7 +217,6 @@ item.minecraft:beetroot_soup.name=甜菜湯
 
 item.asparagusitem.name=蘆筍
 item.asparagusseeditem.name=蘆筍種子
-item.grilledasparagusitem.name=烤蘆筍
 item.barleyitem.name=大麥
 item.barleyseeditem.name=大麥種子
 item.beanitem.name=豆子
@@ -353,7 +253,6 @@ item.radishitem.name=櫻桃蘿蔔
 item.radishseeditem.name=櫻桃蘿蔔種子
 item.riceitem.name=水稻
 item.riceseeditem.name=水稻種子
-item.ricecakeitem.name=米糕
 item.rutabagaitem.name=蕪菁甘藍
 item.rutabagaseeditem.name=蕪菁甘藍種子
 item.ryeitem.name=黑麥
@@ -368,15 +267,13 @@ item.sunflowerseedsitem.name=葵花子
 item.sunflowerseeditem.name=向日葵種子
 item.sweetpotatoitem.name=番薯
 item.sweetpotatoseeditem.name=番薯種子
-item.bakedsweetpotatoitem.name=烤番薯
 item.tealeafitem.name=茶葉
 item.teaseeditem.name=茶樹種子
-item.teaitem.name=一杯茶
 item.turnipitem.name=蕪菁
 item.turnipseeditem.name=蕪菁種子
 item.whitemushroomitem.name=白蘑菇
 item.whitemushroomseeditem.name=白蘑菇孢子
-        
+
 item.artichokeitem.name=洋薊
 item.artichokeseeditem.name=洋薊種子
 item.bellpepperitem.name=甜椒
@@ -400,7 +297,6 @@ item.chilipepperitem.name=辣椒
 item.chilipepperseeditem.name=辣椒種子
 item.coffeebeanitem.name=咖啡豆
 item.coffeeseeditem.name=咖啡種子
-item.coffeeitem.name=一杯咖啡
 item.cornitem.name=玉米
 item.cornseeditem.name=玉米種子
 item.popcornitem.name=爆米花
@@ -411,7 +307,6 @@ item.cucumberitem.name=小黃瓜
 item.cucumberseeditem.name=小黃瓜種子
 item.eggplantitem.name=茄子
 item.eggplantseeditem.name=茄子種子
-item.grilledeggplantitem.name=烤茄子
 item.grapeitem.name=葡萄
 item.grapeseeditem.name=葡萄種子
 item.raisinsitem.name=葡萄乾
@@ -491,7 +386,7 @@ item.sisalitem.name=劍麻
 item.sisalseeditem.name=劍麻種子
 item.taroitem.name=芋頭
 item.taroseeditem.name=芋頭種子
-        
+
 item.almonditem.name=杏仁
 item.apricotitem.name=杏桃
 item.avocadoitem.name=酪梨
@@ -547,7 +442,7 @@ item.grilledeggplantitem.name=烤茄子
 item.toastedcoconutitem.name=烤椰子
 item.vanillaitem.name=香草
 item.toastedsesameseedsitem.name=烤芝麻
-        
+
 item.saltitem.name=鹽
 item.flouritem.name=麵粉
 item.doughitem.name=麵團
@@ -608,14 +503,14 @@ item.chocolateicecreamitem.name=巧克力冰淇淋
 item.vegetablesoupitem.name=蔬菜湯
 item.stockitem.name=高湯
 item.fruitsaladitem.name=水果沙拉
-        
+
 item.spagettiitem.name=義大利麵
 item.spagettiandmeatballsitem.name=肉丸義大利麵
 item.tomatosoupitem.name=番茄湯
 item.ketchupitem.name=番茄醬
 item.chickenparmasanitem.name=義式帕瑪森起司烤雞
 item.pizzaitem.name=披薩
-        
+
 item.springsaladitem.name=蔬菜沙拉
 item.porklettucewrapitem.name=豬肉生菜捲
 item.fishlettucewrapitem.name=魚肉生菜捲
@@ -624,7 +519,7 @@ item.leafychickensandwichitem.name=雞肉蔬菜漢堡
 item.leafyfishsandwichitem.name=魚肉蔬菜漢堡
 item.deluxecheeseburgeritem.name=豪華起司堡
 item.delightedmealitem.name=快樂兒童餐
-        
+
 item.onionsoupitem.name=法式洋蔥湯
 item.potatocakesitem.name=愛爾蘭薯餅
 item.hashitem.name=牛肉煎馬鈴薯
@@ -639,24 +534,24 @@ item.nachoesitem.name=烤起司辣味玉米片
 item.tacoitem.name=墨西哥捲餅
 item.fishtacoitem.name=墨西哥魚肉捲餅
 item.creamedcornitem.name=奶油玉米
-        
+
 item.strawberrysmoothieitem.name=草莓冰沙
 item.strawberrypieitem.name=草莓派
 item.strawberrysaladitem.name=草莓沙拉
 item.strawberryjuiceitem.name=草莓汁
 item.chocolatestrawberryitem.name=巧克力草莓
-        
+
 item.peanutbutteritem.name=花生醬
 item.trailmixitem.name=綜合果乾
 item.pbandjitem.name=花生醬果醬三明治
 item.peanutbuttercookiesitem.name=花生餅乾
-        
+
 item.grapejuiceitem.name=葡萄汁
 item.vinegaritem.name=醋
 item.grapejellyitem.name=葡萄果醬
 item.grapesaladitem.name=葡萄沙拉
 item.raisincookiesitem.name=葡萄乾餅乾
-        
+
 item.picklesitem.name=醃黃瓜
 item.cucumbersaladitem.name=小黃瓜沙拉
 item.cucumbersoupitem.name=小黃瓜濃湯
@@ -668,24 +563,24 @@ item.friedriceitem.name=炒飯
 item.mushroomrisottoitem.name=蘑菇燴飯
 item.curryitem.name=咖哩飯
 item.rainbowcurryitem.name=彩虹咖哩
-        
+
 item.refriedbeansitem.name=豆泥
 item.bakedbeansitem.name=烘豆
 item.beansandriceitem.name=豆飯
 item.chiliitem.name=墨西哥辣醬
 item.beanburritoitem.name=豆子玉米煎餅
-        
+
 item.stuffedpepperitem.name=鑲甜椒
 item.veggiestirfryitem.name=炒蔬菜
 item.grilledskewersitem.name=串燒
 item.supremepizzaitem.name=至尊披薩
 item.omeletitem.name=煎蛋餅
-        
+
 item.hotwingsitem.name=香辣雞翅
 item.chilipoppersitem.name=辣椒卷
 item.extremechiliitem.name=超級墨西哥辣醬
 item.chilichocolateitem.name=辣椒巧克力
-        
+
 item.lemonaideitem.name=檸檬水
 item.lemonbaritem.name=檸檬方糕
 item.fishdinneritem.name=魚宴
@@ -693,208 +588,208 @@ item.lemonsmoothieitem.name=檸檬冰沙
 item.lemonmeringueitem.name=檸檬酥
 item.candiedlemonitem.name=糖漬檸檬
 item.lemonchickenitem.name=西檸雞
-        
+
 item.blueberrysmoothieitem.name=藍莓沙冰
 item.blueberrypieitem.name=藍莓派
 item.blueberrymuffinitem.name=藍莓瑪芬
 item.blueberryjuiceitem.name=藍莓汁
 item.pancakesitem.name=美式鬆餅
 item.blueberrypancakesitem.name=藍莓美式鬆餅
-        
+
 item.cherryjuiceitem.name=櫻桃汁
 item.cherrypieitem.name=櫻桃派
 item.chocolatecherryitem.name=巧克力櫻桃
 item.cherrysmoothieitem.name=櫻桃冰沙
 item.cheesecakeitem.name=起司蛋糕
 item.cherrycheesecakeitem.name=櫻桃起司蛋糕
-        
+
 item.stuffedeggplantitem.name=鑲茄子
 item.eggplantparmitem.name=焗烤茄子
-        
+
 item.raspberryicedteaitem.name=覆盆子冰茶
 item.chaiteaitem.name=印度奶茶
-        
+
 item.espressoitem.name=特濃咖啡
 item.coffeeconlecheitem.name=牛奶咖啡
 item.mochaicecreamitem.name=摩卡冰淇淋
-        
+
 item.pickledbeetsitem.name=醃甜菜
 item.beetsaladitem.name=甜菜沙拉
 item.beetsoupitem.name=甜菜湯
 item.bakedbeetsitem.name=烤甜菜
-        
+
 item.broccolimacitem.name=青花菜通心粉
 item.broccolindipitem.name=浸青花菜
 item.creamedbroccolisoupitem.name=青花菜濃湯
-        
+
 item.sweetpotatopieitem.name=番薯派
 item.candiedsweetpotatoesitem.name=拔絲地瓜
 item.mashedsweetpotatoesitem.name=番薯泥
-        
+
 item.steamedpeasitem.name=蒸豌豆
 item.splitpeasoupitem.name=豌豆湯
-        
+
 item.pineappleupsidedowncakeitem.name=鳳梨翻轉蛋糕
 item.pineapplehamitem.name=鳳梨火腿
 item.pineappleyogurtitem.name=鳳梨優格
-        
+
 item.turnipsoupitem.name=蕪菁濃湯
 item.roastedrootveggiemedleyitem.name=烤蔬根雜燴
 item.bakedturnipsitem.name=烤蕪菁
-        
+
 item.gingerbreaditem.name=薑麵包
 item.gingersnapsitem.name=薑餅
 item.candiedgingeritem.name=薑糖
-        
+
 item.mustarditem.name=黃芥末醬
 item.softpretzelandmustarditem.name=芥末蝴蝶餅
 item.spicymustardporkitem.name=芥末豬肉
 item.spicygreensitem.name=炒蔬菜
-        
+
 item.garlicbreaditem.name=大蒜麵包
 item.garlicmashedpotatoesitem.name=蒜味馬鈴薯泥
 item.garlicchickenitem.name=蒜香雞
-        
+
 item.summerradishsaladitem.name=夏季蘿蔔沙拉
 item.summersquashwithradishitem.name=夏季蘿蔔瓜類沙拉
-        
+
 item.celeryandpeanutbutteritem.name=花生醬芹菜
 item.chickencelerycasseroleitem.name=芹香燉雞
 item.peasandceleryitem.name=豌豆芹菜沙拉
 item.celerysoupitem.name=芹菜濃湯
-        
+
 item.zucchinibreaditem.name=櫛瓜麵包
 item.zucchinifriesitem.name=炸櫛瓜條
 item.zestyzucchiniitem.name=櫛瓜通心粉
 item.zucchinibakeitem.name=烤櫛瓜
-        
+
 item.asparagusquicheitem.name=蘆筍鹹派
 item.asparagussoupitem.name=蘆筍濃湯
-        
+
 item.walnutraisinbreaditem.name=葡萄乾核桃麵包
 item.candiedwalnutsitem.name=蜜糖核桃
 item.brownieitem.name=巧克力布朗尼
-        
+
 item.papayajuiceitem.name=木瓜汁
 item.papayasmoothieitem.name=木瓜冰沙
 item.papayayogurtitem.name=木瓜優格
-        
+
 item.starfruitjuiceitem.name=楊桃汁
 item.starfruitsmoothieitem.name=楊桃冰沙
 item.starfruityogurtitem.name=楊桃優格
-        
+
 item.guacamoleitem.name=酪梨莎莎醬
 item.creamofavocadosoupitem.name=酪梨濃湯
 item.avocadoburritoitem.name=酪梨玉米煎餅
-        
+
 item.poachedpearitem.name=香草燉梨
 item.fruitcrumbleitem.name=水果奶酥派
 item.pearyogurtitem.name=梨子優格
 item.plumyogurtitem.name=李子優格t
-        
+
 item.bananasplititem.name=香蕉船
 item.banananutbreaditem.name=香蕉核桃麵包
 item.bananasmoothieitem.name=香蕉冰沙
 item.bananayogurtitem.name=香蕉優格
-        
+
 item.coconutmilkitem.name=椰奶
 item.chickencurryitem.name=咖哩雞
 item.coconutshrimpitem.name=炸椰子蝦
 item.coconutyogurtitem.name=椰子優格
-        
+
 item.orangejuiceitem.name=柳橙汁
 item.orangechickenitem.name=陳皮雞
 item.orangesmoothieitem.name=柳橙冰沙
 item.orangeyogurtitem.name=柳橙優格
-        
+
 item.peachjuiceitem.name=桃子汁
 item.peachcobbleritem.name=桃子餡餅
 item.peachsmoothieitem.name=桃子冰沙
 item.peachyogurtitem.name=桃子優格
-        
+
 item.limejuiceitem.name=萊姆汁
 item.keylimepieitem.name=萊姆派
 item.limesmoothieitem.name=萊姆冰沙
 item.limeyogurtitem.name=萊姆冰沙
-        
+
 item.mangojuiceitem.name=芒果汁
 item.mangosmoothieitem.name=芒果冰沙
 item.mangoyogurtitem.name=芒果優格
-        
+
 item.pomegranatejuiceitem.name=石榴汁
 item.pomegranatesmoothieitem.name=石榴冰沙
 item.pomegranateyogurtitem.name=石榴優格
-        
+
 item.vanillayogurtitem.name=香草優格
-        
+
 item.cinnamonrollitem.name=肉桂卷
 item.frenchtoastitem.name=法式吐司
-        
+
 item.marshmellowsitem.name=棉花糖
 item.donutitem.name=甜甜圈
 item.chocolatedonutitem.name=巧克力甜甜圈
 item.powdereddonutitem.name=糖粉甜甜圈
 item.jellydonutitem.name=果醬甜甜圈
 item.frosteddonutitem.name=糖霜甜甜圈
-        
+
 item.cactussoupitem.name=仙人掌湯
 item.wafflesitem.name=格子鬆餅
 item.seedsoupitem.name=種子湯
 item.softpretzelitem.name=蝴蝶餅
 item.jellybeansitem.name=雷根糖
 item.biscuititem.name=比斯吉
-        
+
 item.creamcookieitem.name=奶油餅乾
 item.jaffaitem.name=佳發蛋糕
 item.friedchickenitem.name=炸雞
 item.chocolatesprinklecakeitem.name=彩虹巧克力蛋糕
 item.redvelvetcakeitem.name=紅絲絨蛋糕
 item.footlongitem.name=法國麵包
-        
+
 item.blueberryyogurtitem.name=藍莓優格
 item.lemonyogurtitem.name=檸檬優格
 item.cherryyogurtitem.name=櫻桃優格
 item.strawberryyogurtitem.name=草莓優格
 item.grapeyogurtitem.name=葡萄優格
 item.chocolateyogurtitem.name=巧克力優格
-        
+
 item.blackberryjuiceitem.name=黑莓汁
 item.blackberrycobbleritem.name=黑莓餡餅
 item.blackberrysmoothieitem.name=黑莓冰沙
 item.blackberryyogurtitem.name=黑莓優格
 item.chocolatemilkitem.name=巧克力牛奶
 item.pumpkinyogurtitem.name=南瓜優格
-        
+
 item.raspberryjuiceitem.name=覆盆子汁
 item.raspberrypieitem.name=覆盆子派
 item.raspberrysmoothieitem.name=覆盆子冰沙
 item.raspberryyogurtitem.name=樹莓酸奶
 item.cinnamonsugardonutitem.name=肉桂糖粉甜甜圈
 item.melonyogurtitem.name=西瓜優格
-        
+
 item.kiwijuiceitem.name=奇異果汁
 item.kiwismoothieitem.name=奇異果冰沙
 item.kiwiyogurtitem.name=奇異果優格
 item.plainyogurtitem.name=原味優格
 item.appleyogurtitem.name=蘋果優格
-        
+
 item.saltedsunflowerseedsitem.name=鹹葵花子
 item.sunflowerwheatrollsitem.name=葵花子麵包
 item.sunflowerbroccolisaladitem.name=葵花青花菜沙拉
-        
+
 item.cranberryjuiceitem.name=蔓越莓汁
 item.cranberrysauceitem.name=蔓越莓醬
 item.cranberrybaritem.name=蔓越莓棒
-        
+
 item.peppermintitem.name=薄荷糖
-        
+
 item.cactusfruitjuiceitem.name=仙人掌果汁
-        
+
 item.blackpepperitem.name=黑胡椒
 item.groundcinnamonitem.name=肉桂粉
 item.groundnutmegitem.name=肉荳蔻粉
 item.oliveoilitem.name=橄欖油
-        
+
 item.baklavaitem.name=土耳其果仁蜜餅
 item.gummybearsitem.name=小熊軟糖
 item.baconmushroomburgeritem.name=培根蘑菇漢堡
@@ -908,15 +803,15 @@ item.eggnogitem.name=蛋酒
 item.custarditem.name=卡仕達醬
 item.sushiitem.name=壽司
 item.gardensoupitem.name=田園湯
-        
+
 item.freshwateritem.name=淡水
 item.freshmilkitem.name=鮮奶
-        
+
 item.muttonrawitem.name=生羊肉
 item.muttoncookeditem.name=熟羊肉
 item.calamarirawitem.name=生魷魚
 item.calamaricookeditem.name=熟魷魚
-        
+
 item.applejellyitem.name=蘋果果醬
 item.applejellysandwichitem.name=蘋果果醬三明治
 item.blackberryjellyitem.name=黑莓果醬
@@ -951,26 +846,25 @@ item.strawberryjellyitem.name=草莓果醬
 item.strawberryjellysandwichitem.name=草莓果醬三明治
 item.watermelonjellyitem.name=西瓜果醬
 item.watermelonjellysandwichitem.name=西瓜果醬三明治
-        
+
 item.bubblywateritem.name=汽水
 item.cherrysodaitem.name=櫻桃汽水
-item.colaso​​daitem.name=可樂
 item.gingersodaitem.name=薑汁汽水
 item.grapesodaitem.name=葡萄汽水
 item.lemonlimesodaitem.name=檸檬汽水
 item.orangesodaitem.name=柳橙汽水
 item.rootbeersodaitem.name=麥根沙士
 item.strawberrysodaitem.name=草莓汽水
-        
+
 item.caramelicecreamitem.name=焦糖冰淇淋
 item.mintchocolatechipicecreamitem.name=薄荷巧克力冰淇淋
 item.strawberryicecreamitem.name=草莓冰淇淋
 item.vanillaicecreamitem.name=香草冰淇淋
-        
+
 item.ediblerootitem.name=食用塊根
-        
+
 item.gingerchickenitem.name=老薑雞
-        
+
 item.oldworldveggiesoupitem.name=舊世界蔬菜湯
 item.spicebunitem.name=葡萄乾肉桂小圓麵包
 item.gingeredrhubarbtartitem.name=大黃生薑餡餅
@@ -1067,7 +961,7 @@ item.snickersbaritem.name=士力架
 item.spinachpieitem.name=菠菜派
 item.steamedspinachitem.name=蒸菠菜
 item.vegemiteontoastitem.name=維吉麥吐司
-    
+
 item.anchovyrawitem.name=生鳀魚
 item.bassrawitem.name=生海鱸
 item.carprawitem.name=生鯉魚
@@ -1105,12 +999,11 @@ item.scallopcookeditem.name=熟扇貝
 item.shrimpcookeditem.name=熟蝦子
 item.snailcookeditem.name=熟蝸牛
 item.turtlecookeditem.name=熟海龜
-    
+
 item.applecideritem.name=蘋果西打
 item.bangersandmashitem.name=香腸和馬鈴薯泥
 item.batteredsausageitem.name=炸香腸
 item.batteritem.name=麵糊
-item.chorizo​​item.name=西班牙臘腸
 item.coleslawitem.name=高麗菜沙拉
 item.energydrinkitem.name=能量飲料
 item.friedonionsitem.name=洋蔥圈
@@ -1508,4 +1401,78 @@ item.meringuebombeitem.name=Meringue Bombe
 item.meringuebrownieitem.name=Meringue Brownie
 item.meringuecookieitem.name=Meringue Cookie
 item.meringuerouladeitem.name=Meringue Roulade
+
 item.merveilleuxitem.name=Merveilleux
+
+tooltip.well_block=Oh, maybe not very useful. - Sjin
+tooltip.pot_item=How do I make a pot, Pam?! - Lewis
+tooltip.top_tier_food_item=Top Tier Food: Always Edible: Buffs Player
+tile.carrotcake.name=Carrot Cake
+tile.cheesecake.name=Cheese Cake
+tile.cherrycheesecake.name=Cherry Cheese Cake
+tile.pineappleupsidedowncake.name=Pineapple Upside Down Cake
+tile.chocolatesprinklecake.name=Chocolate Sprinkles Cake
+tile.redvelvetcake.name=Red Velvet Cake
+tile.lamingtoncake.name=Lamington
+tile.pavlovacake.name=Pavlova
+tile.holidaycake.name=Holiday Cake
+tile.pumpkincheesecake.name=Pumpkin Cheese Cake
+item.tomatilloitem.name=Tomatillo
+item.tomatilloseeditem.name=Tomatillo Seed
+item.juniperberryitem.name=Juniperberry
+item.juniperberryseeditem.name=Juniperberry Seed
+item.colasodaitem.name=Cola Soda
+item.chorizoitem.name=Chorizo
+item.bbqjackfruititem.name=BBQ Jackfruit
+item.bentoboxitem.name=Bento Box
+item.timpanoitem.name=Timpano
+item.friedfeastitem.name=Fried Feast
+item.mushroomketchupomeletitem.name=Mushroom Ketchup Omelet
+item.mushroomketchupitem.name=Mushroom Ketchup
+item.lycheeteaitem.name=Lychee Tea
+item.baconwrappedchiliitem.name=Bacon Wrapped Chili
+item.buttertartitem.name=Butter Tart
+item.seedenergygelitem.name=Seed Energy Gel
+item.chickencordonbleuitem.name=Chicken Cordon Bleu
+item.sundayhighteaitem.name=Sunday High Tea
+item.battenbergitem.name=Battenberg
+item.cucumbersandwichitem.name=Cucumber Sandwich
+item.slawdogitem.name=Slaw Dog
+item.dandelionsaladitem.name=Dandelion Salad
+item.peanutsoupitem.name=Peanut Soup
+item.vanillaconchasbreaditem.name=Vanilla Conchas Bread
+item.chocolatecoconutbaritem.name=Chocolate Coconut Bar
+item.strawberrysouffleitem.name=Strawberry Soufflé
+item.gyudonitem.name=Gyudon
+item.shrimptemperaitem.name=Shrimp Tempura
+item.imagawayakiitem.name=Imagawayaki
+item.mochicakeitem.name=Mochi Cake
+item.mochidessertitem.name=Mochi Dessert
+item.taiyakiitem.name=Taiyaki
+item.salmononigiriitem.name=Salmon Onigiri
+item.tunaonigiriitem.name=Tuna Onigiri
+item.friedbolognasandwichitem.name=Fried Bologna Sandwich
+item.bolognasandwichitem.name=Bologna Sandwich
+item.ricepuddingitem.name=Rice Pudding
+item.musubiitem.name=Musubi
+item.cassouletitem.name=Cassoulet
+item.imitationcrabsticksitem.name=Imitation Crab Sticks
+item.misopasteitem.name=Miso Paste
+item.dandelionteaitem.name=Dandelion Tea
+item.rivermudcakeitem.name=River Mud Cake
+item.gravlaxitem.name=Gravlax
+item.cheesedanishitem.name=Cheese Danish
+item.schnitzelitem.name=Schnitzel
+item.bratwurstitem.name=Bratwurst
+item.bolognaitem.name=Bologna
+item.raspberrymilkshakeitem.name=Raspberry Milk Shake
+item.pumpkinspicelatteitem.name=Pumpkin Spice Latte
+item.rootbeerfloatitem.name=Root Beer Float
+item.hotcocoaitem.name=Hot Cocoa
+item.cinnamonbreaditem.name=Cinnamon Bread
+item.fruitcakeitem.name=Fruit Cake
+item.cornchipsitem.name=Corn Chips
+item.marshmellowchicksitem.name=Marshmellow Chicks
+item.bbqchickenbiscuititem.name=BBQ Chicken Biscuit
+item.chickenbiscuititem.name=Chicken Biscuit
+item.pizzasliceitem.name=Pizza Slice

@@ -1,9 +1,5 @@
 itemGroup.harvestcraft=하베스트크래프트
 
-
-harvestcraft.harvestcraft.tile.cuttingboard.name=도마
-harvestcraft.tile.pot.name=냄비
-
 tile.beehive.name=벌집
 tile.apiary.name=양봉장
 tile.presser.name=압착기
@@ -23,19 +19,8 @@ tile.grinder.name=분쇄기
 
 tile.crate.name=나무 상자
 
-harvestcraft.tile.salt.name=소금 광석
-harvestcraft.tile.pamcompressedsaltBlock.name=압착된 소금 블록
-
 tile.market.name=상점
 tile.shippingbin.name=배송통
-
-harvestcraft.tile.oven.name=오븐
-
-harvestcraft.tile.churn.name=교유기
-harvestcraft.tile.quern.name=맷돌
-harvestcraft.tile.watertrap.name=물 함정
-harvestcraft.tile.groundtrap.name=땅 함정
-harvestcraft.tile.dehydrator.name=탈수기
 
 tile.aridgarden.name=건조 정원
 tile.frostgarden.name=한대 정원
@@ -125,70 +110,6 @@ tile.walnut_sapling.name=호두 묘목
 tile.gooseberry_sapling.name=구즈베리 묘목
 tile.spiderweb_sapling.name=거미줄 묘목
 
-harvestcraft.tile.pamblackberrycrop.name=블랙베리 작물
-harvestcraft.tile.pamblueberrycrop.name=블루베리 작물
-harvestcraft.tile.pamcandleberrycrop.name=소귀 작물
-harvestcraft.tile.pamraspberrycrop.name=라즈베리 작물
-harvestcraft.tile.pamstrawberrycrop.name=딸기 작물
-harvestcraft.tile.pamcactusfruitcrop.name=백년초 작물
-harvestcraft.tile.pamasparaguscrop.name=아스파라거스 작물
-harvestcraft.tile.pambarleycrop.name=보리 작물
-harvestcraft.tile.pamoatscrop.name=귀리 작물
-harvestcraft.tile.pamryecrop.name=호밀 작물
-harvestcraft.tile.pamcorncrop.name=옥수수 작물
-harvestcraft.tile.pambambooshootcrop.name=대나무 작물
-harvestcraft.tile.pamcantaloupecrop.name=칸탈루프 작물
-harvestcraft.tile.pamcucumbercrop.name=오이 작물
-harvestcraft.tile.pamwintersquashcrop.name=겨울호박 작물
-harvestcraft.tile.pamzucchinicrop.name=주키니호박 작물
-harvestcraft.tile.pambeetcrop.name=비트 작물
-harvestcraft.tile.pamonioncrop.name=양파 작물
-harvestcraft.tile.pamparsnipcrop.name=파스닙 작물
-harvestcraft.tile.pampeanutcrop.name=땅콩 작물
-harvestcraft.tile.pamradishcrop.name=무 작물
-harvestcraft.tile.pamrutabagacrop.name=스웨덴순무 작물
-harvestcraft.tile.pamsweetpotatocrop.name=고구마 작물
-harvestcraft.tile.pamturnipcrop.name=순무 작물
-harvestcraft.tile.pamrhubarbcrop.name=대황 작물
-harvestcraft.tile.pamcelerycrop.name=셀러리 작물
-harvestcraft.tile.pamgarliccrop.name=마늘 작물
-harvestcraft.tile.pamgingercrop.name=생강 작물
-harvestcraft.tile.pamspiceleafcrop.name=향잎 작물
-harvestcraft.tile.pamtealeafcrop.name=찻잎 작물
-harvestcraft.tile.pamcoffeebeancrop.name=커피콩 작물
-harvestcraft.tile.pammustardseedscrop.name=겨자씨 작물
-harvestcraft.tile.pambroccolicrop.name=브로콜리 작물
-harvestcraft.tile.pamcauliflowercrop.name=콜리플라워 작물
-harvestcraft.tile.pamleekcrop.name=파 작물
-harvestcraft.tile.pamlettucecrop.name=상추 작물
-harvestcraft.tile.pamscallioncrop.name=부추 작물
-harvestcraft.tile.pamartichokecrop.name=아티초크 작물
-harvestcraft.tile.pambrusselsproutcrop.name=방울양배추 작물
-harvestcraft.tile.pamcabbagecrop.name=배추 작물
-harvestcraft.tile.pamspinachcrop.name=시금치 작물
-harvestcraft.tile.pamwhitemushroomcrop.name=흰색 버섯 작물
-harvestcraft.tile.pambeancrop.name=콩 작물
-harvestcraft.tile.pamsoybeancrop.name=대두 작물
-harvestcraft.tile.pambellpeppercrop.name=피망 작물
-harvestcraft.tile.pamchilipeppercrop.name=고추 작물
-harvestcraft.tile.pameggplantcrop.name=가지 작물
-harvestcraft.tile.pamokracrop.name=오크라 작물
-harvestcraft.tile.pampeascrop.name=완두콩 작물
-harvestcraft.tile.pamtomatocrop.name=토마토 작물
-harvestcraft.tile.pamcottoncrop.name=목화 작물
-harvestcraft.tile.pampineapplecrop.name=파인애플 작물
-harvestcraft.tile.pamgrapecrop.name=포도 작물
-harvestcraft.tile.pamkiwicrop.name=키위 작물
-harvestcraft.tile.pamcranberrycrop.name=크랜베리 작물
-harvestcraft.tile.pamricecrop.name=쌀 작물
-harvestcraft.tile.pamseaweedcrop.name=해초 작물
-harvestcraft.tile.pamcurryleafcrop.name=강황잎 작물
-harvestcraft.tile.pamsesameseedscrop.name=참깨 작물
-harvestcraft.tile.pamwaterchestnutcrop.name=마름 작물
-harvestcraft.tile.pamkalecrop.name=케일 작물
-
-harvestcraft.tile.pampicklecrop.name=절임오이 작물
-
 tile.candleDeco1.name=흰색 양초
 tile.candleDeco2.name=주황색 양초
 tile.candleDeco3.name=자홍색 양초
@@ -220,17 +141,9 @@ tile.pumpkincheesecake.name=호박 치즈 케이크
 
 item.garliccoinitem.name=갈릭 코인
 
-item.cottonitem.name=목화
-item.wovencottonitem.name=면직물
-item.cottonseeditem.name=목화 씨앗
-
 item.seedbagitem.name=씨앗통
 item.cropbagitem.name=작물통
 item.saplingbagitem.name=묘목통
-
-item.candleberryitem.name=소귀
-item.candleberryseeditem.name=소귀 씨앗
-item.waxitem.name=밀랍
 
 item.hardenedleatherhelmitem.name=강화 가죽 모자
 item.hardenedleatherchestitem.name=강화 가죽 튜닉
@@ -268,7 +181,7 @@ item.minecraft:carrot.name=당근
 item.minecraft:beetroot.name=사탕무
 item.minecraft:melon.name=수박 조각
 item.harvestpumpkinitem.name=호박
-    
+
 item.minecraft:beef.name=익히지 않은 소고기
 item.minecraft:cooked_beef.name=스테이크
 item.minecraft:chicken.name=익히지 않은 닭고기
@@ -296,7 +209,6 @@ item.minecraft:beetroot_soup.name=사탕무 수프
 
 item.asparagusitem.name=아스파라거스
 item.asparagusseeditem.name=아스파라거스 씨앗
-item.grilledasparagusitem.name=구운 아스파라거스
 item.barleyitem.name=보리
 item.barleyseeditem.name=보리 씨앗
 item.beanitem.name=콩
@@ -333,7 +245,6 @@ item.radishitem.name=무
 item.radishseeditem.name=무 씨앗
 item.riceitem.name=쌀
 item.riceseeditem.name=쌀 씨앗
-item.ricecakeitem.name=떡
 item.rutabagaitem.name=스웨덴순무
 item.rutabagaseeditem.name=스웨덴순무 씨앗
 item.ryeitem.name=호밀
@@ -348,15 +259,13 @@ item.sunflowerseedsitem.name=해바라기씨
 item.sunflowerseeditem.name=해바라기 씨앗
 item.sweetpotatoitem.name=고구마
 item.sweetpotatoseeditem.name=고구마 씨앗
-item.bakedsweetpotatoitem.name=구운 고구마
 item.tealeafitem.name=찻잎
 item.teaseeditem.name=차 씨앗
-item.teaitem.name=차
 item.turnipitem.name=순무
 item.turnipseeditem.name=순무 씨앗
 item.whitemushroomitem.name=흰색 버섯
 item.whitemushroomseeditem.name=흰색 버섯 포자
-        
+
 item.artichokeitem.name=아티초크
 item.artichokeseeditem.name=아티초크 씨앗
 item.bellpepperitem.name=피망
@@ -380,7 +289,6 @@ item.chilipepperitem.name=고추
 item.chilipepperseeditem.name=고추 씨앗
 item.coffeebeanitem.name=커피콩
 item.coffeeseeditem.name=커피콩 씨앗
-item.coffeeitem.name=커피
 item.cornitem.name=옥수수
 item.cornseeditem.name=옥수수 씨앗
 item.popcornitem.name=팝콘
@@ -391,7 +299,6 @@ item.cucumberitem.name=오이
 item.cucumberseeditem.name=오이 씨앗
 item.eggplantitem.name=가지
 item.eggplantseeditem.name=가지 씨앗
-item.grilledeggplantitem.name=구운 가지
 item.grapeitem.name=포도
 item.grapeseeditem.name=포도 씨앗
 item.raisinsitem.name=건포도
@@ -432,7 +339,7 @@ item.kaleseeditem.name=케일 씨앗
 
 item.gigapickleitem.name=왕절임오이
 item.gigapickleseeditem.name=왕절임오이 씨앗
-        
+
 item.almonditem.name=아몬드
 item.apricotitem.name=살구
 item.avocadoitem.name=아보카도
@@ -477,7 +384,7 @@ item.grilledeggplantitem.name=구운 가지
 item.toastedcoconutitem.name=튀긴 코코넛
 item.vanillaitem.name=바닐라
 item.toastedsesameseedsitem.name=튀긴 참깨
-        
+
 item.saltitem.name=소금
 item.flouritem.name=밀가루
 item.doughitem.name=도우
@@ -538,14 +445,14 @@ item.chocolateicecreamitem.name=초콜렛 아이스크림
 item.vegetablesoupitem.name=야채 수프
 item.stockitem.name=육수
 item.fruitsaladitem.name=과일 샐러드
-        
+
 item.spagettiitem.name=스파게티
 item.spagettiandmeatballsitem.name=미트볼 스파게티
 item.tomatosoupitem.name=토마토 수프
 item.ketchupitem.name=케첩
 item.chickenparmasanitem.name=치킨파르메산
 item.pizzaitem.name=피자
-        
+
 item.springsaladitem.name=스프링 샐러드
 item.porklettucewrapitem.name=돼지고기 상추 쌈
 item.fishlettucewrapitem.name=생선 상추 쌈
@@ -554,7 +461,7 @@ item.leafychickensandwichitem.name=치킨야채샌드위치
 item.leafyfishsandwichitem.name=생선야채샌드위치
 item.deluxecheeseburgeritem.name=디럭스치즈버거
 item.delightedmealitem.name=기쁜식사
-        
+
 item.onionsoupitem.name=양파 수프
 item.potatocakesitem.name=감자 케이크
 item.hashitem.name=해쉬 브라운
@@ -569,24 +476,24 @@ item.nachoesitem.name=나쵸
 item.tacoitem.name=타코
 item.fishtacoitem.name=생선타코
 item.creamedcornitem.name=크림 옥수수
-        
+
 item.strawberrysmoothieitem.name=딸기 스무디
 item.strawberrypieitem.name=딸기 파이
 item.strawberrysaladitem.name=딸기 샐러드
 item.strawberryjuiceitem.name=딸기 주스
 item.chocolatestrawberryitem.name=초코 딸기
-        
+
 item.peanutbutteritem.name=땅콩 버터
 item.trailmixitem.name=트레일 믹스
 item.pbandjitem.name=땅콩 버터 젤리 샌드위치
 item.peanutbuttercookiesitem.name=땅콩 버터 쿠키
-        
+
 item.grapejuiceitem.name=포도 주스
 item.vinegaritem.name=식초
 item.grapejellyitem.name=포도 젤리
 item.grapesaladitem.name=포도 샐러드
 item.raisincookiesitem.name=건포도 쿠키
-        
+
 item.picklesitem.name=오이 피클
 item.cucumbersaladitem.name=오이 샐러드
 item.cucumbersoupitem.name=오이 수프
@@ -598,24 +505,24 @@ item.friedriceitem.name=볶음밥
 item.mushroomrisottoitem.name=버섯 리조토
 item.curryitem.name=카레밥
 item.rainbowcurryitem.name=무지개 카레
-        
+
 item.refriedbeansitem.name=볶은 콩
 item.bakedbeansitem.name=구운 콩
 item.beansandriceitem.name=콩밥
 item.chiliitem.name=칠리
 item.beanburritoitem.name=콩 부리토
-        
+
 item.stuffedpepperitem.name=피망전
 item.veggiestirfryitem.name=야채 볶음
 item.grilledskewersitem.name=꼬치 구이
 item.supremepizzaitem.name=슈프림 피자
 item.omeletitem.name=오믈렛
-        
+
 item.hotwingsitem.name=버팔로윙
 item.chilipoppersitem.name=고추 튀김
 item.extremechiliitem.name=고추 수프
 item.chilichocolateitem.name=고추 초콜렛
-        
+
 item.lemonaideitem.name=레모네이드
 item.lemonbaritem.name=레몬바
 item.fishdinneritem.name=피쉬 디너
@@ -623,208 +530,208 @@ item.lemonsmoothieitem.name=레몬 스무디
 item.lemonmeringueitem.name=레몬 머랭
 item.candiedlemonitem.name=레몬 사탕
 item.lemonchickenitem.name=레몬 치킨
-        
+
 item.blueberrysmoothieitem.name=블루베리 스무디
 item.blueberrypieitem.name=블루베리 파이
 item.blueberrymuffinitem.name=블루베리 머핀
 item.blueberryjuiceitem.name=블루베리 주스
 item.pancakesitem.name=팬케이크
 item.blueberrypancakesitem.name=블루베리 팬케이크
-        
+
 item.cherryjuiceitem.name=체리 주스
 item.cherrypieitem.name=체리 파이
 item.chocolatecherryitem.name=초코 체리
 item.cherrysmoothieitem.name=체리 스무디
 item.cheesecakeitem.name=치즈 케이크
 item.cherrycheesecakeitem.name=체리 치즈 케이크
-        
+
 item.stuffedeggplantitem.name=으깬 가지
 item.eggplantparmitem.name=가지 찜
-        
+
 item.raspberryicedteaitem.name=라즈베리 냉차
 item.chaiteaitem.name=중화차
-        
+
 item.espressoitem.name=에스프레소
 item.coffeeconlecheitem.name=커피 콘 레체
 item.mochaicecreamitem.name=모카 아이스크림
-        
+
 item.pickledbeetsitem.name=비트 피클
 item.beetsaladitem.name=비트 샐러드
 item.beetsoupitem.name=비트 수프
 item.bakedbeetsitem.name=구운 비트
-        
+
 item.broccolimacitem.name=브로콜리 수프
 item.broccolindipitem.name=브로콜리 엔 딥
 item.creamedbroccolisoupitem.name=크림 브로콜리 수프
-        
+
 item.sweetpotatopieitem.name=고구마 파이
 item.candiedsweetpotatoesitem.name=고구마 사탕
 item.mashedsweetpotatoesitem.name=으깬 고구마
-        
+
 item.steamedpeasitem.name=삶은 완두콩
 item.splitpeasoupitem.name=완두콩 수프
-        
+
 item.pineappleupsidedowncakeitem.name=파인애플 업사이드다운 케이크
 item.pineapplehamitem.name=파인애플 햄
 item.pineappleyogurtitem.name=파인애플 요거트
-        
+
 item.turnipsoupitem.name=순무 수프
 item.roastedrootveggiemedleyitem.name=구운 채소
 item.bakedturnipsitem.name=구운 순무
-        
+
 item.gingerbreaditem.name=생강빵
 item.gingersnapsitem.name=생강 쿠키
 item.candiedgingeritem.name=생강 사탕
-        
+
 item.mustarditem.name=겨자
 item.softpretzelandmustarditem.name=겨자와 프레첼
 item.spicymustardporkitem.name=겨자 돼지 구이
 item.spicygreensitem.name=매운 야채 볶음
-        
+
 item.garlicbreaditem.name=마늘빵
 item.garlicmashedpotatoesitem.name=마늘 매쉬드 포테이토
 item.garlicchickenitem.name=마늘 치킨
-        
+
 item.summerradishsaladitem.name=무 샐러드
 item.summersquashwithradishitem.name=호박 무 절임
-        
+
 item.celeryandpeanutbutteritem.name=셀러리 땅콩 버터 볶음
 item.chickencelerycasseroleitem.name=치킨 셀러리 캐서롤
 item.peasandceleryitem.name=완두콩 셀러리 볶음
 item.celerysoupitem.name=셀러리 수프
-        
+
 item.zucchinibreaditem.name=주키니빵
 item.zucchinifriesitem.name=주키니 튀김
 item.zestyzucchiniitem.name=주키니 볶음
 item.zucchinibakeitem.name=구운 주키니
-        
+
 item.asparagusquicheitem.name=아스파라거스 키치
 item.asparagussoupitem.name=아스파라거스 수프
-        
+
 item.walnutraisinbreaditem.name=호두건포도빵
 item.candiedwalnutsitem.name=호두 사탕
 item.brownieitem.name=브라우니
-        
+
 item.papayajuiceitem.name=파파야 주스
 item.papayasmoothieitem.name=파파야 스무디
 item.papayayogurtitem.name=파파야 요거트
-        
+
 item.starfruitjuiceitem.name=오렴자 주스
 item.starfruitsmoothieitem.name=오렴자 스무디
 item.starfruityogurtitem.name=오렴자 요거트
-        
+
 item.guacamoleitem.name=과카몰레
 item.creamofavocadosoupitem.name=아보카도 크림 수프
 item.avocadoburritoitem.name=아보카도 부리토
-        
+
 item.poachedpearitem.name=졸인 배
 item.fruitcrumbleitem.name=과일 크럼블
 item.pearyogurtitem.name=배 요거트
 item.plumyogurtitem.name=자두 요거트
-        
+
 item.bananasplititem.name=바나나 스플릿
 item.banananutbreaditem.name=바나나견과류빵
 item.bananasmoothieitem.name=바나나 스무디
 item.bananayogurtitem.name=바나나 요거트
-        
+
 item.coconutmilkitem.name=코코넛 밀크
 item.chickencurryitem.name=치킨 카레
 item.coconutshrimpitem.name=코코넛 쉬림프
 item.coconutyogurtitem.name=코코넛 요거트
-        
+
 item.orangejuiceitem.name=오렌지 주스
 item.orangechickenitem.name=오렌지 치킨
 item.orangesmoothieitem.name=오렌지 스무디
 item.orangeyogurtitem.name=오렌지 요거트
-        
+
 item.peachjuiceitem.name=복숭아 주스
 item.peachcobbleritem.name=복숭아 코블러
 item.peachsmoothieitem.name=복숭아 스무디
 item.peachyogurtitem.name=복숭아 요거트
-        
+
 item.limejuiceitem.name=라임 주스
 item.keylimepieitem.name=키라임 파이
 item.limesmoothieitem.name=라임 스무디
 item.limeyogurtitem.name=라임 요거트
-        
+
 item.mangojuiceitem.name=망고 주스
 item.mangosmoothieitem.name=망고 스무디
 item.mangoyogurtitem.name=망고 요거트
-        
+
 item.pomegranatejuiceitem.name=석류 주스
 item.pomegranatesmoothieitem.name=석류 스무디
 item.pomegranateyogurtitem.name=석류 요거트
-        
+
 item.vanillayogurtitem.name=바닐라 요거트
-        
+
 item.cinnamonrollitem.name=시나몬 롤
 item.frenchtoastitem.name=프렌치 토스트
-        
+
 item.marshmellowsitem.name=마쉬멜로
 item.donutitem.name=도넛
 item.chocolatedonutitem.name=초콜렛 도넛
 item.powdereddonutitem.name=파우더 도넛
 item.jellydonutitem.name=젤리 도넛
 item.frosteddonutitem.name=프로스트 도넛
-        
+
 item.cactussoupitem.name=백년초 수프
 item.wafflesitem.name=와플
 item.seedsoupitem.name=씨앗 수프
 item.softpretzelitem.name=프레첼
 item.jellybeansitem.name=젤리빈
 item.biscuititem.name=비스킷
-        
+
 item.creamcookieitem.name=크림 쿠키
 item.jaffaitem.name=자파
 item.friedchickenitem.name=치킨
 item.chocolatesprinklecakeitem.name=초콜렛 스프린클 케이크
 item.redvelvetcakeitem.name=레드 벨벳 케이크
 item.footlongitem.name=풋롱
-        
+
 item.blueberryyogurtitem.name=블루베리 요거트
 item.lemonyogurtitem.name=레몬 요거트
 item.cherryyogurtitem.name=체리 요거트
 item.strawberryyogurtitem.name=딸기 요거트
 item.grapeyogurtitem.name=포도 요거트
 item.chocolateyogurtitem.name=초콜렛 요거트
-        
+
 item.blackberryjuiceitem.name=블랙베리 주스
 item.blackberrycobbleritem.name=블랙베리 코블러
 item.blackberrysmoothieitem.name=블랙베리 스무디
 item.blackberryyogurtitem.name=블랙베리 요거트
 item.chocolatemilkitem.name=초콜렛 우유
 item.pumpkinyogurtitem.name=호박 요거트
-        
+
 item.raspberryjuiceitem.name=라즈베리 주스
 item.raspberrypieitem.name=라즈베리 파이
 item.raspberrysmoothieitem.name=라즈베리 스무디
 item.raspberryyogurtitem.name=라즈베리 요거트
 item.cinnamonsugardonutitem.name=계피 설탕 도넛
 item.melonyogurtitem.name=수박 요거트
-        
+
 item.kiwijuiceitem.name=키위 주스
 item.kiwismoothieitem.name=키위 스무디
 item.kiwiyogurtitem.name=키위 요거트
 item.plainyogurtitem.name=플래인 요거트
 item.appleyogurtitem.name=사과 요거트
-        
+
 item.saltedsunflowerseedsitem.name=절인 해바라기씨
 item.sunflowerwheatrollsitem.name=해바라기 밀롤
 item.sunflowerbroccolisaladitem.name=해바라기 브로콜리 샐러드
-        
+
 item.cranberryjuiceitem.name=크랜베리 주스
 item.cranberrysauceitem.name=크랜베리 소스
 item.cranberrybaritem.name=크랜베리바
-        
+
 item.peppermintitem.name=페퍼민트
-        
+
 item.cactusfruitjuiceitem.name=백년초 주스
-        
+
 item.blackpepperitem.name=흑후추
 item.groundcinnamonitem.name=그라운드 계피
 item.groundnutmegitem.name=그라운드 육두구
 item.oliveoilitem.name=식용유
-        
+
 item.baklavaitem.name=박라바
 item.gummybearsitem.name=구미 베어
 item.baconmushroomburgeritem.name=베이컨버섯버거
@@ -838,15 +745,15 @@ item.eggnogitem.name=에그 노그
 item.custarditem.name=커스타드
 item.sushiitem.name=초밥
 item.gardensoupitem.name=가든 수프
-        
+
 item.freshwateritem.name=프레시 워터
 item.freshmilkitem.name=프레시 밀크
-        
+
 item.muttonrawitem.name=익히지 않은 양고기
 item.muttoncookeditem.name=구운 양고기
 item.calamarirawitem.name=익히지 않은 오징어
 item.calamaricookeditem.name=구운 오징어
-        
+
 item.applejellyitem.name=사과 젤리
 item.applejellysandwichitem.name=사과 젤리 샌드위치
 item.blackberryjellyitem.name=블랙베리 젤리
@@ -881,7 +788,7 @@ item.strawberryjellyitem.name=딸기 젤리
 item.strawberryjellysandwichitem.name=딸기 젤리 샌드위치
 item.watermelonjellyitem.name=수박 젤리
 item.watermelonjellysandwichitem.name=수박 젤리 샌드위치
-        
+
 item.bubblywateritem.name=거품물
 item.cherrysodaitem.name=체리 소다
 item.colasodaitem.name=콜라
@@ -891,16 +798,16 @@ item.lemonlimesodaitem.name=레몬라임 소다
 item.orangesodaitem.name=오렌지 소다
 item.rootbeersodaitem.name=루트 맥주
 item.strawberrysodaitem.name=딸기 소다
-        
+
 item.caramelicecreamitem.name=캐러멜 아이스크림
 item.mintchocolatechipicecreamitem.name=민트 초코칩 아이스크림
 item.strawberryicecreamitem.name=딸기 아이스크림
 item.vanillaicecreamitem.name=바닐라 아이스크림
-        
+
 item.ediblerootitem.name=식용 뿌리
-        
+
 item.gingerchickenitem.name=생강 치킨
-        
+
 item.oldworldveggiesoupitem.name=옛날 야채 수프
 item.spicebunitem.name=양념 번
 item.gingeredrhubarbtartitem.name=생강 대황 타르트
@@ -996,7 +903,7 @@ item.snickersbaritem.name=스니커즈
 item.spinachpieitem.name=시금치 파이
 item.steamedspinachitem.name=삶은 시금치
 item.vegemiteontoastitem.name=베지마이트 토스트
-    
+
 item.anchovyrawitem.name=익히지 않은 멸치
 item.bassrawitem.name=익히지 않은 배스
 item.carprawitem.name=익히지 않은 잉어
@@ -1034,7 +941,7 @@ item.scallopcookeditem.name=구운 가리비
 item.shrimpcookeditem.name=구운 새우
 item.snailcookeditem.name=구운 달팽이
 item.turtlecookeditem.name=구운 거북
-    
+
 item.applecideritem.name=사과 사이다
 item.bangersandmashitem.name=소시지와 으깬 감자
 item.batteredsausageitem.name=부서진 소시지
@@ -1439,17 +1346,131 @@ item.meringuecookieitem.name=머랭 쿠키
 item.meringuerouladeitem.name=머랭 룰라드
 item.merveilleuxitem.name=메르베이유
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+tooltip.well_block=Oh, maybe not very useful. - Sjin
+tooltip.pot_item=How do I make a pot, Pam?! - Lewis
+tooltip.top_tier_food_item=Top Tier Food: Always Edible: Buffs Player
+tile.pamhazelnut.name=Hazelnut
+tile.pampawpaw.name=Pawpaw
+tile.pamsoursop.name=Soursop
+tile.pambreadfruit.name=Breadfruit
+tile.pamguava.name=Guava
+tile.pamjackfruit.name=Jackfruit
+tile.pamlychee.name=Lychee
+tile.pampassionfruit.name=Passionfruit
+tile.pamrambutan.name=Rambutan
+tile.pamtamarind.name=Tamarind
+tile.hazelnut_sapling.name=Hazelnut Sapling
+tile.pawpaw_sapling.name=Pawpaw Sapling
+tile.soursop_sapling.name=Soursop Sapling
+tile.breadfruit_sapling.name=Breadfruit Sapling
+tile.guava_sapling.name=Guava Sapling
+tile.jackfruit_sapling.name=Jackfruit Sapling
+tile.lychee_sapling.name=Lychee Sapling
+tile.passionfruit_sapling.name=Passion Fruit Sapling
+tile.rambutan_sapling.name=Rambutan Sapling
+tile.tamarind_sapling.name=Tamarind Sapling
+item.agaveitem.name=Agave
+item.agaveseeditem.name=Agave Seed
+item.amaranthitem.name=Amaranth
+item.amaranthseeditem.name=Amaranth Seed
+item.arrowrootitem.name=Arrowroot
+item.arrowrootseeditem.name=Arrowroot Seed
+item.cassavaitem.name=Cassava
+item.cassavaseeditem.name=Cassava Seed
+item.chickpeaitem.name=Chickpeas
+item.chickpeaseeditem.name=Chickpea Seed
+item.elderberryitem.name=Elderberry
+item.elderberryseeditem.name=Elderberry Seed
+item.flaxitem.name=Flax
+item.flaxseeditem.name=Flax Seed
+item.greengrapeitem.name=Green Grape
+item.greengrapeseeditem.name=Green Grape Seed
+item.huckleberryitem.name=Huckleberry
+item.huckleberryseeditem.name=Huckleberry Seed
+item.jicamaitem.name=Jicama
+item.jicamaseeditem.name=Jicama Seed
+item.juteitem.name=Jute
+item.juteseeditem.name=Jute Seed
+item.kenafitem.name=Kenaf
+item.kenafseeditem.name=Kenaf Seed
+item.kohlrabiitem.name=Kohlrabi
+item.kohlrabiseeditem.name=Kohlrabi Seed
+item.lentilitem.name=Lentils
+item.lentilseeditem.name=Lentil Seed
+item.milletitem.name=Millet
+item.milletseeditem.name=Millet Seed
+item.mulberryitem.name=Mulberry
+item.mulberryseeditem.name=Mulberry Seed
+item.quinoaitem.name=Quinoa
+item.quinoaseeditem.name=Quinoa Seed
+item.sisalitem.name=Sisal
+item.sisalseeditem.name=Sisal Seed
+item.taroitem.name=Taro
+item.taroseeditem.name=Taro Seed
+item.tomatilloitem.name=Tomatillo
+item.tomatilloseeditem.name=Tomatillo Seed
+item.juniperberryitem.name=Juniperberry
+item.juniperberryseeditem.name=Juniperberry Seed
+item.hazelnutitem.name=Hazelnut
+item.pawpawitem.name=Pawpaw
+item.soursopitem.name=Soursop
+item.breadfruititem.name=Breadfruit
+item.guavaitem.name=Guava
+item.jackfruititem.name=Jackfruit
+item.lycheeitem.name=Lychee
+item.passionfruititem.name=Passion Fruit
+item.rambutanitem.name=Rambutan
+item.tamarinditem.name=Tamarind
+item.bbqjackfruititem.name=BBQ Jackfruit
+item.bentoboxitem.name=Bento Box
+item.timpanoitem.name=Timpano
+item.friedfeastitem.name=Fried Feast
+item.mushroomketchupomeletitem.name=Mushroom Ketchup Omelet
+item.mushroomketchupitem.name=Mushroom Ketchup
+item.lycheeteaitem.name=Lychee Tea
+item.baconwrappedchiliitem.name=Bacon Wrapped Chili
+item.buttertartitem.name=Butter Tart
+item.seedenergygelitem.name=Seed Energy Gel
+item.chickencordonbleuitem.name=Chicken Cordon Bleu
+item.sundayhighteaitem.name=Sunday High Tea
+item.battenbergitem.name=Battenberg
+item.cucumbersandwichitem.name=Cucumber Sandwich
+item.slawdogitem.name=Slaw Dog
+item.dandelionsaladitem.name=Dandelion Salad
+item.peanutsoupitem.name=Peanut Soup
+item.vanillaconchasbreaditem.name=Vanilla Conchas Bread
+item.chocolatecoconutbaritem.name=Chocolate Coconut Bar
+item.strawberrysouffleitem.name=Strawberry Soufflé
+item.gyudonitem.name=Gyudon
+item.shrimptemperaitem.name=Shrimp Tempura
+item.imagawayakiitem.name=Imagawayaki
+item.mochicakeitem.name=Mochi Cake
+item.mochidessertitem.name=Mochi Dessert
+item.taiyakiitem.name=Taiyaki
+item.salmononigiriitem.name=Salmon Onigiri
+item.tunaonigiriitem.name=Tuna Onigiri
+item.friedbolognasandwichitem.name=Fried Bologna Sandwich
+item.bolognasandwichitem.name=Bologna Sandwich
+item.ricepuddingitem.name=Rice Pudding
+item.musubiitem.name=Musubi
+item.cassouletitem.name=Cassoulet
+item.imitationcrabsticksitem.name=Imitation Crab Sticks
+item.misopasteitem.name=Miso Paste
+item.dandelionteaitem.name=Dandelion Tea
+item.rivermudcakeitem.name=River Mud Cake
+item.gravlaxitem.name=Gravlax
+item.cheesedanishitem.name=Cheese Danish
+item.schnitzelitem.name=Schnitzel
+item.bratwurstitem.name=Bratwurst
+item.bolognaitem.name=Bologna
+item.raspberrymilkshakeitem.name=Raspberry Milk Shake
+item.pumpkinspicelatteitem.name=Pumpkin Spice Latte
+item.rootbeerfloatitem.name=Root Beer Float
+item.hotcocoaitem.name=Hot Cocoa
+item.cinnamonbreaditem.name=Cinnamon Bread
+item.fruitcakeitem.name=Fruit Cake
+item.cornchipsitem.name=Corn Chips
+item.marshmellowchicksitem.name=Marshmellow Chicks
+item.bbqchickenbiscuititem.name=BBQ Chicken Biscuit
+item.chickenbiscuititem.name=Chicken Biscuit
+item.pizzasliceitem.name=Pizza Slice

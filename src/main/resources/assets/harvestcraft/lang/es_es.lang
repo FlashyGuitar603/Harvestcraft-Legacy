@@ -1,9 +1,6 @@
 itemGroup.harvestcraft=HarvestCraft
 
 # Blocks
-harvestcraft.harvestcraft.tile.cuttingboard.name=Tabla de Cortar
-harvestcraft.tile.pot.name=Bote
-
 tile.beehive.name=Colmena
 tile.apiary.name=Apiario
 tile.presser.name=Prensador
@@ -20,19 +17,8 @@ tile.well.name=Pozo
 
 tile.crate.name=Caja
 
-harvestcraft.tile.salt.name=Mineral de Sal
-harvestcraft.tile.pamcompressedsaltBlock.name=Bloque de Sal Comprimido
-
 tile.market.name=Mercado
 tile.shippingbin.name=Contenedor de Envío
-
-harvestcraft.tile.oven.name=Horno
-
-harvestcraft.tile.churn.name=Batir
-harvestcraft.tile.quern.name=Molino de Mano
-harvestcraft.tile.watertrap.name=Trampa de Agua
-harvestcraft.tile.groundtrap.name=Trampa de Tierra
-harvestcraft.tile.dehydrator.name=Deshidratador
 
 tile.aridgarden.name=Jardín Árido
 tile.frostgarden.name=Jardín Escarchado
@@ -122,69 +108,6 @@ tile.walnut_sapling.name=Brote de Nogal
 tile.gooseberry_sapling.name=Brote de Grosellero Silvestre
 tile.spiderweb_sapling.name=Brote de Tela de Araña
 
-harvestcraft.tile.pamblackberrycrop.name=Cultivo de Mora
-harvestcraft.tile.pamblueberrycrop.name=Cultivo de Arándano Azul
-harvestcraft.tile.pamcandleberrycrop.name=Cultivo de Baya de Cera
-harvestcraft.tile.pamraspberrycrop.name=Cultivo de Frambuesa
-harvestcraft.tile.pamstrawberrycrop.name=Cultivo de Fresa
-harvestcraft.tile.pamcactusfruitcrop.name=Cultivo de Fruta de Cactus
-harvestcraft.tile.pamasparaguscrop.name=Cultivo de Espárrago
-harvestcraft.tile.pambarleycrop.name=Cultivo de Cebada
-harvestcraft.tile.pamoatscrop.name=Cultivo de Avena
-harvestcraft.tile.pamryecrop.name=Cultivo de Centeno
-harvestcraft.tile.pamcorncrop.name=Cultivo de Maíz
-harvestcraft.tile.pambambooshootcrop.name=Cultivo de Bambú
-harvestcraft.tile.pamcantaloupecrop.name=Cultivo de Cantalupo
-harvestcraft.tile.pamcucumbercrop.name=Cultivo de Pepino
-harvestcraft.tile.pamwintersquashcrop.name=Cultivo de Calabaza de Invierno
-harvestcraft.tile.pamzucchinicrop.name=Cultivo de Calabacín
-harvestcraft.tile.pambeetcrop.name=Cultivo de Remolacha
-harvestcraft.tile.pamonioncrop.name=Cultivo de Cebolla
-harvestcraft.tile.pamparsnipcrop.name=Cultivo de Chirivía
-harvestcraft.tile.pampeanutcrop.name=Cultivo de Cacahuete
-harvestcraft.tile.pamradishcrop.name=Cultivo de Rábano
-harvestcraft.tile.pamrutabagacrop.name=Cultivo de Colinabo
-harvestcraft.tile.pamsweetpotatocrop.name=Cultivo de Boniato
-harvestcraft.tile.pamturnipcrop.name=Cultivo de Nabo
-harvestcraft.tile.pamrhubarbcrop.name=Cultivo de Ruibarbo
-harvestcraft.tile.pamcelerycrop.name=Cultivo de Apio
-harvestcraft.tile.pamgarliccrop.name=Cultivo de Ajo
-harvestcraft.tile.pamgingercrop.name=Cultivo de Jengibre
-harvestcraft.tile.pamspiceleafcrop.name=Cultivo de Hoja de Especia
-harvestcraft.tile.pamtealeafcrop.name=Cultivo de Hoja de Té
-harvestcraft.tile.pamcoffeebeancrop.name=Cultivo de Grano de Café
-harvestcraft.tile.pammustardseedscrop.name=Cultivo de Semillas de Mostaza
-harvestcraft.tile.pambroccolicrop.name=Cultivo de Brócoli
-harvestcraft.tile.pamcauliflowercrop.name=Cultivo de Coliflor
-harvestcraft.tile.pamleekcrop.name=Cultivo de Puerro
-harvestcraft.tile.pamlettucecrop.name=Cultivo de Lechuga
-harvestcraft.tile.pamscallioncrop.name=Cultivo de Cebolleta
-harvestcraft.tile.pamartichokecrop.name=Cultivo de Alcachofa
-harvestcraft.tile.pambrusselsproutcrop.name=Cultivo de Col de Bruselas
-harvestcraft.tile.pamcabbagecrop.name=Cultivo de Col
-harvestcraft.tile.pamspinachcrop.name=Cultivo de Espinaca
-harvestcraft.tile.pamwhitemushroomcrop.name=Cultivo de Champiñón Blanco
-harvestcraft.tile.pambeancrop.name=Cultivo de Judía
-harvestcraft.tile.pamsoybeancrop.name=Cultivo de Soja
-harvestcraft.tile.pambellpeppercrop.name=Cultivo de Pimentera
-harvestcraft.tile.pamchilipeppercrop.name=Cultivo de Chile
-harvestcraft.tile.pameggplantcrop.name=Cultivo de Berenjena
-harvestcraft.tile.pamokracrop.name=Cultivo de Ocra
-harvestcraft.tile.pampeascrop.name=Cultivo de Guisantes
-harvestcraft.tile.pamtomatocrop.name=Cultivo de Tomate
-harvestcraft.tile.pamcottoncrop.name=Cultivo de Algodón
-harvestcraft.tile.pampineapplecrop.name=Cultivo de Piña
-harvestcraft.tile.pamgrapecrop.name=Cultivo de Uva
-harvestcraft.tile.pamkiwicrop.name=Cultivo de Kiwi
-harvestcraft.tile.pamcranberrycrop.name=Cultivo de Arándano Rojo
-harvestcraft.tile.pamricecrop.name=Cultivo de Arroz
-harvestcraft.tile.pamseaweedcrop.name=Cultivo de Alga Marina
-harvestcraft.tile.pamcurryleafcrop.name=Cultivo de Hoja de Curry
-harvestcraft.tile.pamsesameseedscrop.name=Cultivo de Semillas de Sésamo
-harvestcraft.tile.pamwaterchestnutcrop.name=Cultivo de Castaña de Agua
-
-harvestcraft.tile.pampicklecrop.name=Cultivo de Pepinillo
-
 tile.candleDeco1.name=Vela Blanca
 tile.candleDeco2.name=Vela Naranja
 tile.candleDeco3.name=Vela Magenta
@@ -212,21 +135,6 @@ tile.lamingtoncake.name=Lamington
 tile.pavlovacake.name=Pavlova
 tile.holidaycake.name=Pastel Festivo
 tile.pumpkincheesecake.name=Tarta de Queso y Calabaza
-
-# Items
-item.garliccoinitem.name=Moneda de Ajo
-
-item.cottonitem.name=Algodón
-item.wovencottonitem.name=Tejido de Algodón
-item.cottonseeditem.name=Semilla de Algodón
-
-item.seedbagitem.name=Bolsa para Semillas
-item.cropbagitem.name=Bolsa para Cultivos
-item.saplingbagitem.name=Bolsa para Brotes
-
-item.candleberryitem.name=Baya de Cera
-item.candleberryseeditem.name=Semilla Baya de Cera
-item.waxitem.name=Cera
 
 item.hardenedleatherhelmitem.name=Casco de Cuero Endurecido
 item.hardenedleatherchestitem.name=Peto de Cuero Endurecido
@@ -264,7 +172,7 @@ item.minecraft:carrot.name=Zanahoria
 item.minecraft:beetroot.name=Remolacha
 item.minecraft:melon.name=Rodaja de Sandía
 item.harvestpumpkinitem.name=Calabaza
-    
+
 item.minecraft:beef.name=Filete Crudo
 item.minecraft:cooked_beef.name=Filete
 item.minecraft:chicken.name=Pollo Crudo
@@ -292,7 +200,6 @@ item.minecraft:beetroot_soup.name=Estofado de Remolacha
 
 item.asparagusitem.name=Espárrago
 item.asparagusseeditem.name=Semilla de Espárrago
-item.grilledasparagusitem.name=Espárrago a la Parrilla
 item.barleyitem.name=Cebada
 item.barleyseeditem.name=Semilla de Cebada
 item.beanitem.name=Judías
@@ -329,7 +236,6 @@ item.radishitem.name=Rábano
 item.radishseeditem.name=Semilla de Rábano
 item.riceitem.name=Arroz
 item.riceseeditem.name=Semilla de Arroz
-item.ricecakeitem.name=Torta de Arroz
 item.rutabagaitem.name=Colinabo
 item.rutabagaseeditem.name=Semilla de Colinabo
 item.ryeitem.name=Centeno
@@ -344,15 +250,13 @@ item.sunflowerseedsitem.name=Semillas de Girasol
 item.sunflowerseeditem.name=Semilla de Girasol
 item.sweetpotatoitem.name=Boniato
 item.sweetpotatoseeditem.name=Semilla de Boniato
-item.bakedsweetpotatoitem.name=Boniato Asado
 item.tealeafitem.name=Hoja de Té
 item.teaseeditem.name=Semilla de Hoja de Té
-item.teaitem.name=Taza de Té
 item.turnipitem.name=Nabo
 item.turnipseeditem.name=Semilla de Nabo
 item.whitemushroomitem.name=Champiñón Blanco
 item.whitemushroomseeditem.name=Espora de Champiñón Blanco
-        
+
 item.artichokeitem.name=Alcachofa
 item.artichokeseeditem.name=Semilla de Alcachofa
 item.bellpepperitem.name=Pimentera
@@ -376,7 +280,6 @@ item.chilipepperitem.name=Chile
 item.chilipepperseeditem.name=Semilla de Chile
 item.coffeebeanitem.name=Grano de Café
 item.coffeeseeditem.name=Semilla de Café
-item.coffeeitem.name=Taza de Café
 item.cornitem.name=Maíz
 item.cornseeditem.name=Semilla de Maíz
 item.popcornitem.name=Palomitas de Maíz
@@ -387,7 +290,6 @@ item.cucumberitem.name=Pepino
 item.cucumberseeditem.name=Semilla de Pepino
 item.eggplantitem.name=Berenjena
 item.eggplantseeditem.name=Semilla de Berenjena
-item.grilledeggplantitem.name=Berenjena a la Parrilla
 item.grapeitem.name=Uva
 item.grapeseeditem.name=Semilla de Uva
 item.raisinsitem.name=Pasas
@@ -425,7 +327,7 @@ item.waterchestnutitem.name=Castaña de Agua
 item.waterchestnutseeditem.name=Semilla de Castaña de Agua
 item.gigapickleitem.name=Giga Pepinillo
 item.gigapickleseeditem.name=Semilla de Giga Pepinillo
-        
+
 item.almonditem.name=Almendra
 item.apricotitem.name=Albaricoque
 item.avocadoitem.name=Aguacate
@@ -470,7 +372,7 @@ item.grilledeggplantitem.name=Berenjena a la Parrilla
 item.toastedcoconutitem.name=Coco Tostado
 item.vanillaitem.name=Vainilla
 item.toastedsesameseedsitem.name=Semillas de Sésamo Tostadas
-        
+
 item.saltitem.name=Sal
 item.flouritem.name=Harina
 item.doughitem.name=Masa
@@ -531,14 +433,14 @@ item.chocolateicecreamitem.name=Helado de Chocolate
 item.vegetablesoupitem.name=Sopa de Vegetales
 item.stockitem.name=Caldo
 item.fruitsaladitem.name=Ensalada de Fruta
-        
+
 item.spagettiitem.name=Espaguetis
 item.spagettiandmeatballsitem.name=Espaguetis con Albóndigas
 item.tomatosoupitem.name=Sopa de Tomate
 item.ketchupitem.name=Ketchup
 item.chickenparmasanitem.name=Pollo Parmesano
 item.pizzaitem.name=Pizza
-        
+
 item.springsaladitem.name=Ensalada de Primavera
 item.porklettucewrapitem.name=Chuleta de Cerdo Envuelta de Lechuga
 item.fishlettucewrapitem.name=Pescado Envuelto de Lechuga
@@ -547,7 +449,7 @@ item.leafychickensandwichitem.name=Sándwich de Pollo Frondoso
 item.leafyfishsandwichitem.name=Sándwich de Pescado Frondoso
 item.deluxecheeseburgeritem.name=Hamburguesa de Queso de Lujo
 item.delightedmealitem.name=Gran Comilona
-        
+
 item.onionsoupitem.name=Sopa de Cebolla
 item.potatocakesitem.name=Tortas de Patata
 item.hashitem.name=Guiso
@@ -562,24 +464,24 @@ item.nachoesitem.name=Nachos
 item.tacoitem.name=Taco
 item.fishtacoitem.name=Taco de Pescado
 item.creamedcornitem.name=Crema de Maíz
-        
+
 item.strawberrysmoothieitem.name=Batido de Fresa
 item.strawberrypieitem.name=Tarta de Fresa
 item.strawberrysaladitem.name=Ensalada de Fresa
 item.strawberryjuiceitem.name=Zumo de Fresa
 item.chocolatestrawberryitem.name=Fresas al Chocolate
-        
+
 item.peanutbutteritem.name=Mantequilla de Cacahuete
 item.trailmixitem.name=Surtido Rico
 item.pbandjitem.name=Sándwich de Mantequilla de Cacahuete y Jalea
 item.peanutbuttercookiesitem.name=Galletas de Mantequilla de Cacahuete
-        
+
 item.grapejuiceitem.name=Zumo de Uva
 item.vinegaritem.name=Vinagre
 item.grapejellyitem.name=Mermelada de Uva
 item.grapesaladitem.name=Ensalada de Uva
 item.raisincookiesitem.name=Galletas de Pasas
-        
+
 item.picklesitem.name=Pepinillos
 item.cucumbersaladitem.name=Ensalada de Pepino
 item.cucumbersoupitem.name=Sopa de Pepino
@@ -591,24 +493,24 @@ item.friedriceitem.name=Arroz Frito
 item.mushroomrisottoitem.name=Risotto de Champiñones
 item.curryitem.name=Arroz al Curry
 item.rainbowcurryitem.name=Curry de Arcoiris
-        
+
 item.refriedbeansitem.name=Judías Refritas
 item.bakedbeansitem.name=Judías Cocidas
 item.beansandriceitem.name=Arroz y Judías
 item.chiliitem.name=Chile con Carne
 item.beanburritoitem.name=Burrito de Judías
-        
+
 item.stuffedpepperitem.name=Pimiento Relleno
 item.veggiestirfryitem.name=Salteado de Verduras
 item.grilledskewersitem.name=Brocheta a la Parrilla
 item.supremepizzaitem.name=Pizza Suprema
 item.omeletitem.name=Tortilla
-        
+
 item.hotwingsitem.name=Alas Picantes
 item.chilipoppersitem.name=Chile Relleno
 item.extremechiliitem.name=Chile Extremo
 item.chilichocolateitem.name=Chile de Chocolate
-        
+
 item.lemonaideitem.name=Limonada
 item.lemonbaritem.name=Barra de Limón
 item.fishdinneritem.name=Cena de Pescado
@@ -616,208 +518,208 @@ item.lemonsmoothieitem.name=Batido de Limón
 item.lemonmeringueitem.name=Merengue de Limón
 item.candiedlemonitem.name=Limón Confitado
 item.lemonchickenitem.name=Pollo al Limón
-        
+
 item.blueberrysmoothieitem.name=Batido de Arándano Azul
 item.blueberrypieitem.name=Pastel de Arándanos Azules
 item.blueberrymuffinitem.name=Bollo de Arándano Azul
 item.blueberryjuiceitem.name=Zumo de Arándano Azul
 item.pancakesitem.name=Tortitas
 item.blueberrypancakesitem.name=Tortitas de Arándanos Azules
-        
+
 item.cherryjuiceitem.name=Zumo de Cereza
 item.cherrypieitem.name=Pastel de Cereza
 item.chocolatecherryitem.name=Cerezas al Chocolate
 item.cherrysmoothieitem.name=Batido de Cereza
 item.cheesecakeitem.name=Tarta de Queso
 item.cherrycheesecakeitem.name=Tarta de Queso de Cereza
-        
+
 item.stuffedeggplantitem.name=Berenjena Rellena
 item.eggplantparmitem.name=Berenjena al Parmesano
-        
+
 item.raspberryicedteaitem.name=Té Helado de Frambuesa
 item.chaiteaitem.name=Té Chai
-        
+
 item.espressoitem.name=Café Exprés
 item.coffeeconlecheitem.name=Café con Leche
 item.mochaicecreamitem.name=Helado de Mocha
-        
+
 item.pickledbeetsitem.name=Remolachas al Escabeche
 item.beetsaladitem.name=Ensalada de Remolacha
 item.beetsoupitem.name=Sopa de Remolacha
 item.bakedbeetsitem.name=Remolacha Cocida
-        
+
 item.broccolimacitem.name=Macarrones con Brócoli
 item.broccolindipitem.name=Salsa de Brócoli
 item.creamedbroccolisoupitem.name=Sopa de Crema de Brócoli
-        
+
 item.sweetpotatopieitem.name=Pastel de Boniato
 item.candiedsweetpotatoesitem.name=Boniatos Endulzados
 item.mashedsweetpotatoesitem.name=Boniatos Machacados
-        
+
 item.steamedpeasitem.name=Guisantes al Vapor
 item.splitpeasoupitem.name=Sopa de Guisantes
-        
+
 item.pineappleupsidedowncakeitem.name=Pastel de Piña al Revés
 item.pineapplehamitem.name=Jamón con Piña
 item.pineappleyogurtitem.name=Yogur de Piña
-        
+
 item.turnipsoupitem.name=Sopa de Nabo
 item.roastedrootveggiemedleyitem.name=Mezcla de Verduras y Raíces Asadas
 item.bakedturnipsitem.name=Nabos Cocidos
-        
+
 item.gingerbreaditem.name=Pan de Jengibre
 item.gingersnapsitem.name=Galleta de Jengibre
 item.candiedgingeritem.name=Jengibre Confitado
-        
+
 item.mustarditem.name=Mostaza
 item.softpretzelandmustarditem.name=Pretzel Blando y Mostaza
 item.spicymustardporkitem.name=Cerdo a la Mostaza Picante
 item.spicygreensitem.name=Ensalada Picante
-        
+
 item.garlicbreaditem.name=Pan de Ajo
 item.garlicmashedpotatoesitem.name=Patatas Machacadas con Ajo
 item.garlicchickenitem.name=Pollo al Ajo
-        
+
 item.summerradishsaladitem.name=Ensalada de Rábano de Verano
 item.summersquashwithradishitem.name=Calabaza de Verano con Rábano
-        
+
 item.celeryandpeanutbutteritem.name=Apio y Mantequilla de Cacahuete
 item.chickencelerycasseroleitem.name=Pollo al Apio a la Cazuela
 item.peasandceleryitem.name=Guisantes y Apio
 item.celerysoupitem.name=Sopa de Apio
-        
+
 item.zucchinibreaditem.name=Pan de Calabacín
 item.zucchinifriesitem.name=Calabacines Fritos
 item.zestyzucchiniitem.name=Calabacín Ácido
 item.zucchinibakeitem.name=Calabacín Asado
-        
+
 item.asparagusquicheitem.name=Tarta de Espárragos
 item.asparagussoupitem.name=Sopa de Espárragos
-        
+
 item.walnutraisinbreaditem.name=Pan de Nueces y Pasas
 item.candiedwalnutsitem.name=Nueces Confitadas
 item.brownieitem.name=Bizcocho de Chocolate
-        
+
 item.papayajuiceitem.name=Zumo de Papaya
 item.papayasmoothieitem.name=Batido de Papaya
 item.papayayogurtitem.name=Yogur de Papaya
-        
+
 item.starfruitjuiceitem.name=Zumo de Carambola
 item.starfruitsmoothieitem.name=Batido de Carambola
 item.starfruityogurtitem.name=Yogur de Carambola
-        
+
 item.guacamoleitem.name=Guacamole
 item.creamofavocadosoupitem.name=Sopa de Crema de Aguacate
 item.avocadoburritoitem.name=Burrito de Aguacate
-        
+
 item.poachedpearitem.name=Pera Hervida
 item.fruitcrumbleitem.name=Fruta Desmenuzada
 item.pearyogurtitem.name=Yogur de Pera
 item.plumyogurtitem.name=Yogur de Ciruela
-        
+
 item.bananasplititem.name=Banana Split
 item.banananutbreaditem.name=Pan de Plátano y Nueces
 item.bananasmoothieitem.name=Batido de Plátano
 item.bananayogurtitem.name=Yogur de Plátano
-        
+
 item.coconutmilkitem.name=Leche de Coco
 item.chickencurryitem.name=Pollo al Curry
 item.coconutshrimpitem.name=Gambas al Coco
 item.coconutyogurtitem.name=Yogur de Coco
-        
+
 item.orangejuiceitem.name=Zumo de Naranja
 item.orangechickenitem.name=Pollo a la Naranja
 item.orangesmoothieitem.name=Batido de Naranja
 item.orangeyogurtitem.name=Yogur de Naranja
-        
+
 item.peachjuiceitem.name=Zumo de Melocotón
 item.peachcobbleritem.name=Tarta de Melocotón
 item.peachsmoothieitem.name=Batido de Melocotón
 item.peachyogurtitem.name=Yogur de Melocotón
-        
+
 item.limejuiceitem.name=Zumo de Lima
 item.keylimepieitem.name=Tarta de Key Lime
 item.limesmoothieitem.name=Batido de Lima
 item.limeyogurtitem.name=Yogur de Lima
-        
+
 item.mangojuiceitem.name=Zumo de Mango
 item.mangosmoothieitem.name=Batido de Mango
 item.mangoyogurtitem.name=Yogur de Mango
-        
+
 item.pomegranatejuiceitem.name=Zumo de Granada
 item.pomegranatesmoothieitem.name=Batido de Granada
 item.pomegranateyogurtitem.name=Yogur de Granada
-        
+
 item.vanillayogurtitem.name=Yogur de Vainilla
-        
+
 item.cinnamonrollitem.name=Rollo de Canela
 item.frenchtoastitem.name=Tostada Francesa
-        
+
 item.marshmellowsitem.name=Malvaviscos
 item.donutitem.name=Rosquilla
 item.chocolatedonutitem.name=Rosquilla de Chocolate
 item.powdereddonutitem.name=Rosquilla al Azúcar Glas
 item.jellydonutitem.name=Rosquilla de Mermelada
 item.frosteddonutitem.name=Rosquilla Glaseada
-        
+
 item.cactussoupitem.name=Sopa de Cactus
 item.wafflesitem.name=Gofres
 item.seedsoupitem.name=Sopa de Semilla
 item.softpretzelitem.name=Pretzel Blando
 item.jellybeansitem.name=Judías de Gominola
 item.biscuititem.name=Galleta
-        
+
 item.creamcookieitem.name=Galleta de Crema
 item.jaffaitem.name=Galleta Jaffa
 item.friedchickenitem.name=Pollo Frito
 item.chocolatesprinklecakeitem.name=Tarta de Chocolate Espolvoreada de Virutas
 item.redvelvetcakeitem.name=Red Velvet Cake
 item.footlongitem.name=Footlong
-        
+
 item.blueberryyogurtitem.name=Yogur de Arándanos Azules
 item.lemonyogurtitem.name=Yogur de Limón
 item.cherryyogurtitem.name=Yogur de Cereza
 item.strawberryyogurtitem.name=Yogur de Fresa
 item.grapeyogurtitem.name=Yogur de Uva
 item.chocolateyogurtitem.name=Yogur de Chocolate
-        
+
 item.blackberryjuiceitem.name=Zumo de Mora
 item.blackberrycobbleritem.name=Tarta de Mora
 item.blackberrysmoothieitem.name=Batido de Mora
 item.blackberryyogurtitem.name=Yogur de Mora
 item.chocolatemilkitem.name=Leche Chocolatada
 item.pumpkinyogurtitem.name=Yogur de Calabaza
-        
+
 item.raspberryjuiceitem.name=Zumo de Frambuesa
 item.raspberrypieitem.name=Tarta de Frambuesa
 item.raspberrysmoothieitem.name=Batido de Frambuesa
 item.raspberryyogurtitem.name=Yogur de Frambuesa
 item.cinnamonsugardonutitem.name=Rosquilla de Azúcar y Canela
 item.melonyogurtitem.name=Yogur de Sandía
-        
+
 item.kiwijuiceitem.name=Zumo de Kiwi
 item.kiwismoothieitem.name=Batido de Kiwi
 item.kiwiyogurtitem.name=Yogur de Kiwi
 item.plainyogurtitem.name=Yogur Natural
 item.appleyogurtitem.name=Yogur de Manzana
-        
+
 item.saltedsunflowerseedsitem.name=Pipas Saladas
 item.sunflowerwheatrollsitem.name=Rollos de Trigo de Girasol
 item.sunflowerbroccolisaladitem.name=Ensalada de Brócoli y Pipas
-        
+
 item.cranberryjuiceitem.name=Zumo de Arándano Rojo
 item.cranberrysauceitem.name=Salsa de Arándano Rojo
 item.cranberrybaritem.name=Barra de Arándano Rojo
-        
+
 item.peppermintitem.name=Caramelo de Menta
-        
+
 item.cactusfruitjuiceitem.name=Zumo de Fruta de Cactus
-        
+
 item.blackpepperitem.name=Pimienta Negra
 item.groundcinnamonitem.name=Canela Molida
 item.groundnutmegitem.name=Nuez Moscada Molida
 item.oliveoilitem.name=Aceite Vegetal
-        
+
 item.baklavaitem.name=Baclava
 item.gummybearsitem.name=Ositos de Goma
 item.baconmushroomburgeritem.name=Hamburguesa con Tocino y Champiñones
@@ -831,15 +733,15 @@ item.eggnogitem.name=Ponche de Huevo
 item.custarditem.name=Natillas
 item.sushiitem.name=Sushi
 item.gardensoupitem.name=Sopa de Jardinera
-        
+
 item.freshwateritem.name=Agua Dulce
 item.freshmilkitem.name=Leche Fresca
-        
+
 item.muttonrawitem.name=Cordero Crudo
 item.muttoncookeditem.name=Cordero Cocinado
 item.calamarirawitem.name=Calamar Crudo
 item.calamaricookeditem.name=Calamar Cocinado
-        
+
 item.applejellyitem.name=Mermelada de Manzana
 item.applejellysandwichitem.name=Sándwich de Mermelada de Manzana
 item.blackberryjellyitem.name=Mermelada de Mora
@@ -874,7 +776,7 @@ item.strawberryjellyitem.name=Mermelada de Fresa
 item.strawberryjellysandwichitem.name=Sándwich de Mermelada de Fresa
 item.watermelonjellyitem.name=Mermelada de Sandía
 item.watermelonjellysandwichitem.name=Sándwich de Mermelada de Sandía
-        
+
 item.bubblywateritem.name=Agua Burbujeante
 item.cherrysodaitem.name=Refresco de Cereza
 item.colasodaitem.name=Refresco de Cola
@@ -884,16 +786,16 @@ item.lemonlimesodaitem.name=Refresco Lima-Limón
 item.orangesodaitem.name=Refresco de Naranja
 item.rootbeersodaitem.name=Cerveza de Raíz
 item.strawberrysodaitem.name=Refresco de Fresa
-        
+
 item.caramelicecreamitem.name=Helado de Caramelo
 item.mintchocolatechipicecreamitem.name=Helado de Menta con Tocitos de Chocolate
 item.strawberryicecreamitem.name=Helado de Fresa
 item.vanillaicecreamitem.name=Helado de Vainilla
-        
+
 item.ediblerootitem.name=Raíz Comestible
-        
+
 item.gingerchickenitem.name=Pollo al Jengibre
-        
+
 item.oldworldveggiesoupitem.name=Sopa de Vegetales del Viejo Mundo
 item.spicebunitem.name=Bollo Sazonado
 item.gingeredrhubarbtartitem.name=Tarta de Ruibarbo y Jengibre
@@ -989,7 +891,7 @@ item.snickersbaritem.name=Barra de Snickers
 item.spinachpieitem.name=Pastel de Espinacas
 item.steamedspinachitem.name=Espinacas al Vapor
 item.vegemiteontoastitem.name=Vegemite en la Tostada
-    
+
 item.anchovyrawitem.name=Anchoa Cruda
 item.bassrawitem.name=Lubina Cruda
 item.carprawitem.name=Carpa Cruda
@@ -1027,7 +929,7 @@ item.scallopcookeditem.name=Vieira Cocinada
 item.shrimpcookeditem.name=Gamba Cocinada
 item.snailcookeditem.name=Caracol Cocinado
 item.turtlecookeditem.name=Tortuga Cocinada
-    
+
 item.applecideritem.name=Sidra de Manzana
 item.bangersandmashitem.name=Salchichas con Puré
 item.batteredsausageitem.name=Salchicha Rebozada
@@ -1328,4 +1230,236 @@ item.mettbrotchenitem.name=Mettbrötchen
 
 item.porkrindsitem.name=Cortezas de Cerdo
 item.cracklinsitem.name=Chicharrones
-item.chorusfruitsoupitem.name=Sopa de Fruta Coral
+
+tooltip.well_block=Oh, maybe not very useful. - Sjin
+tooltip.pot_item=How do I make a pot, Pam?! - Lewis
+tooltip.top_tier_food_item=Top Tier Food: Always Edible: Buffs Player
+tile.waterfilter.name=Water Filter
+tile.grinder.name=Grinder
+tile.pamhazelnut.name=Hazelnut
+tile.pampawpaw.name=Pawpaw
+tile.pamsoursop.name=Soursop
+tile.pambreadfruit.name=Breadfruit
+tile.pamguava.name=Guava
+tile.pamjackfruit.name=Jackfruit
+tile.pamlychee.name=Lychee
+tile.pampassionfruit.name=Passionfruit
+tile.pamrambutan.name=Rambutan
+tile.pamtamarind.name=Tamarind
+tile.hazelnut_sapling.name=Hazelnut Sapling
+tile.pawpaw_sapling.name=Pawpaw Sapling
+tile.soursop_sapling.name=Soursop Sapling
+tile.breadfruit_sapling.name=Breadfruit Sapling
+tile.guava_sapling.name=Guava Sapling
+tile.jackfruit_sapling.name=Jackfruit Sapling
+tile.lychee_sapling.name=Lychee Sapling
+tile.passionfruit_sapling.name=Passion Fruit Sapling
+tile.rambutan_sapling.name=Rambutan Sapling
+tile.tamarind_sapling.name=Tamarind Sapling
+item.kaleitem.name=Kale
+item.kaleseeditem.name=Kale Seed
+item.agaveitem.name=Agave
+item.agaveseeditem.name=Agave Seed
+item.amaranthitem.name=Amaranth
+item.amaranthseeditem.name=Amaranth Seed
+item.arrowrootitem.name=Arrowroot
+item.arrowrootseeditem.name=Arrowroot Seed
+item.cassavaitem.name=Cassava
+item.cassavaseeditem.name=Cassava Seed
+item.chickpeaitem.name=Chickpeas
+item.chickpeaseeditem.name=Chickpea Seed
+item.elderberryitem.name=Elderberry
+item.elderberryseeditem.name=Elderberry Seed
+item.flaxitem.name=Flax
+item.flaxseeditem.name=Flax Seed
+item.greengrapeitem.name=Green Grape
+item.greengrapeseeditem.name=Green Grape Seed
+item.huckleberryitem.name=Huckleberry
+item.huckleberryseeditem.name=Huckleberry Seed
+item.jicamaitem.name=Jicama
+item.jicamaseeditem.name=Jicama Seed
+item.juteitem.name=Jute
+item.juteseeditem.name=Jute Seed
+item.kenafitem.name=Kenaf
+item.kenafseeditem.name=Kenaf Seed
+item.kohlrabiitem.name=Kohlrabi
+item.kohlrabiseeditem.name=Kohlrabi Seed
+item.lentilitem.name=Lentils
+item.lentilseeditem.name=Lentil Seed
+item.milletitem.name=Millet
+item.milletseeditem.name=Millet Seed
+item.mulberryitem.name=Mulberry
+item.mulberryseeditem.name=Mulberry Seed
+item.quinoaitem.name=Quinoa
+item.quinoaseeditem.name=Quinoa Seed
+item.sisalitem.name=Sisal
+item.sisalseeditem.name=Sisal Seed
+item.taroitem.name=Taro
+item.taroseeditem.name=Taro Seed
+item.tomatilloitem.name=Tomatillo
+item.tomatilloseeditem.name=Tomatillo Seed
+item.juniperberryitem.name=Juniperberry
+item.juniperberryseeditem.name=Juniperberry Seed
+item.hazelnutitem.name=Hazelnut
+item.pawpawitem.name=Pawpaw
+item.soursopitem.name=Soursop
+item.breadfruititem.name=Breadfruit
+item.guavaitem.name=Guava
+item.jackfruititem.name=Jackfruit
+item.lycheeitem.name=Lychee
+item.passionfruititem.name=Passion Fruit
+item.rambutanitem.name=Rambutan
+item.tamarinditem.name=Tamarind
+item.akutuqitem.name=Akutuq
+item.cantonesegreensitem.name=Cantonese Greens
+item.cantonesenoodlesitem.name=Cantonese Noodles
+item.dangoitem.name=Dango
+item.earlgreyteaitem.name=Tea, Earl Grey, Hot
+item.eggrollitem.name=Egg Roll
+item.eggtartitem.name=Egg Tart
+item.greenteaitem.name=Green Tea
+item.groundbeefitem.name=Ground Beef
+item.groundchickenitem.name=Ground Chicken
+item.groundduckitem.name=Ground Duck
+item.groundfishitem.name=Ground Fish
+item.groundmuttonitem.name=Ground Mutton
+item.groundporkitem.name=Ground Pork
+item.groundrabbititem.name=Ground Rabbit
+item.groundturkeyitem.name=Ground Turkey
+item.groundvenisonitem.name=Ground Venison
+item.meesuaitem.name=Mee Sua
+item.oystercookeditem.name=Cooked Oyster
+item.oysterrawitem.name=Raw Oyster
+item.oystersauceitem.name=Oyster Sauce
+item.springfieldcashewchickenitem.name=Springfield Cashew Chicken
+item.squidinkspaghettiitem.name=Squid Ink Spaghetti
+item.steaktartareitem.name=Steak Tartare
+item.szechuaneggplantitem.name=Szechuan Eggplant
+item.takoyakiitem.name=Takoyaki
+item.baconpancakesitem.name=Bacon Pancakes
+item.blackpaellaitem.name=Black Paella
+item.blazingsoupitem.name=Blazing Soup
+item.briochebunitem.name=Brioche Bun
+item.chickenpaellaitem.name=Chicken Paella
+item.epicbltitem.name=Epic BLT
+item.escargotitem.name=Escargot
+item.glisteningsaladitem.name=Glistening Salad
+item.gourmetbeefburgeritem.name=Gourmet Beef Burger
+item.gourmetbeefpattyitem.name=Gourmet Beef Patty
+item.gourmetmuttonburgeritem.name=Gourmet Mutton Burger
+item.gourmetmuttonpattyitem.name=Gourmet Mutton Patty
+item.gourmetporkburgeritem.name=Gourmet Pork Burger
+item.gourmetporkpattyitem.name=Gourmet Pork Patty
+item.gourmetvenisonburgeritem.name=Gourmet Venison Burger
+item.gourmetvenisonpattyitem.name=Gourmet Venison Patty
+item.groiledcheesesandwichitem.name=Groiled Cheese Sandwich
+item.guisoitem.name=Guiso
+item.jelliedeelitem.name=Jellied Eel
+item.kalechipsitem.name=Kale Chips
+item.kohlundpinkelitem.name=Kohl und Pinkel
+item.meatloafsandwichitem.name=Meatloaf Sandwich
+item.minerstewitem.name=Miner's Stew
+item.mobsoupitem.name=Mob Soup
+item.netherstartoastitem.name=Nether Star on Toast
+item.padthaiitem.name=Pad Thai
+item.paradiseburgeritem.name=Paradise Burger
+item.peanutbutterbananasandwichitem.name=Peanut Butter and Banana Sandwich
+item.peanutbuttercupitem.name=Peanut Butter Cup
+item.pinkelitem.name=Pinkel
+item.pitepaltitem.name=Pitepalt
+item.sauerbratenitem.name=Sauerbraten
+item.slimepieitem.name=Slime Pie
+item.strawberryrhubarbpieitem.name=Strawberry Rhubarb Pie
+item.tiropitaitem.name=Tiropita
+item.rosepetalteaitem.name=Rose Petal Tea
+item.potatoskinsitem.name=Potato Skins
+item.chilidonutitem.name=Chili Donut
+item.bbqsauceitem.name=BBQ Sauce
+item.vanillacupcakeitem.name=Vanilla Cupcake
+item.chocolatecupcakeitem.name=Chocolate Cupcake
+item.carrotcupcakeitem.name=Carrot Cupcake
+item.redvelvetcupcakeitem.name=Red Velvet Cupcake
+item.chilicupcakeitem.name=Chili Cupcake
+item.peanutbuttercupcakeitem.name=Peanut Butter Cupcake
+item.lemoncupcakeitem.name=Lemon Cupcake
+item.strawberrycupcakeitem.name=Strawberry Cupcake
+item.mintcupcakeitem.name=Mint Cupcake
+item.coffeecupcakeitem.name=Coffee Cupcake
+item.sprinklescupcakeitem.name=Sprinkles Cupcake
+item.caramelcupcakeitem.name=Caramel Cupcake
+item.cherryslushieitem.name=Cherry Slushie
+item.pambitsboxitem.name=Pam Bits Box
+item.stuffedchilipeppersitem.name=Stuffed Chili Peppers
+item.slimegummiesitem.name=Slime Gummies
+item.chocolatepuddingitem.name=Chocolate Pudding
+item.bbqchickenpizzaitem.name=BBQ Chicken Pizza
+item.quesadillaitem.name=Quesadilla
+item.mashedpotatoeschickenbiscuititem.name=Mashed Potatoes and Chicken Biscuit
+item.cheesesteakitem.name=Cheesesteak
+item.bibimbapitem.name=Bibimbap
+item.shrimpcocktailitem.name=Shrimp Cocktail
+item.swedishmeatballsitem.name=Swedish Meatballs
+item.nopalessaladitem.name=Nopales Salad
+item.meringueitem.name=Meringue
+item.applesnowitem.name=Apple Snow
+item.bakedalaskaitem.name=Baked Alaska
+item.berrymeringuenestitem.name=Berry Meringue Nest
+item.etonmessitem.name=Eton Mess
+item.meringuebombeitem.name=Meringue Bombe
+item.meringuebrownieitem.name=Meringue Brownie
+item.meringuecookieitem.name=Meringue Cookie
+item.meringuerouladeitem.name=Meringue Roulade
+item.merveilleuxitem.name=Merveilleux
+item.bbqjackfruititem.name=BBQ Jackfruit
+item.bentoboxitem.name=Bento Box
+item.timpanoitem.name=Timpano
+item.friedfeastitem.name=Fried Feast
+item.mushroomketchupomeletitem.name=Mushroom Ketchup Omelet
+item.mushroomketchupitem.name=Mushroom Ketchup
+item.lycheeteaitem.name=Lychee Tea
+item.baconwrappedchiliitem.name=Bacon Wrapped Chili
+item.buttertartitem.name=Butter Tart
+item.seedenergygelitem.name=Seed Energy Gel
+item.chickencordonbleuitem.name=Chicken Cordon Bleu
+item.sundayhighteaitem.name=Sunday High Tea
+item.battenbergitem.name=Battenberg
+item.cucumbersandwichitem.name=Cucumber Sandwich
+item.slawdogitem.name=Slaw Dog
+item.dandelionsaladitem.name=Dandelion Salad
+item.peanutsoupitem.name=Peanut Soup
+item.vanillaconchasbreaditem.name=Vanilla Conchas Bread
+item.chocolatecoconutbaritem.name=Chocolate Coconut Bar
+item.strawberrysouffleitem.name=Strawberry Soufflé
+item.gyudonitem.name=Gyudon
+item.shrimptemperaitem.name=Shrimp Tempura
+item.imagawayakiitem.name=Imagawayaki
+item.mochicakeitem.name=Mochi Cake
+item.mochidessertitem.name=Mochi Dessert
+item.taiyakiitem.name=Taiyaki
+item.salmononigiriitem.name=Salmon Onigiri
+item.tunaonigiriitem.name=Tuna Onigiri
+item.friedbolognasandwichitem.name=Fried Bologna Sandwich
+item.bolognasandwichitem.name=Bologna Sandwich
+item.ricepuddingitem.name=Rice Pudding
+item.musubiitem.name=Musubi
+item.cassouletitem.name=Cassoulet
+item.imitationcrabsticksitem.name=Imitation Crab Sticks
+item.misopasteitem.name=Miso Paste
+item.dandelionteaitem.name=Dandelion Tea
+item.rivermudcakeitem.name=River Mud Cake
+item.gravlaxitem.name=Gravlax
+item.cheesedanishitem.name=Cheese Danish
+item.schnitzelitem.name=Schnitzel
+item.bratwurstitem.name=Bratwurst
+item.bolognaitem.name=Bologna
+item.raspberrymilkshakeitem.name=Raspberry Milk Shake
+item.pumpkinspicelatteitem.name=Pumpkin Spice Latte
+item.rootbeerfloatitem.name=Root Beer Float
+item.hotcocoaitem.name=Hot Cocoa
+item.cinnamonbreaditem.name=Cinnamon Bread
+item.fruitcakeitem.name=Fruit Cake
+item.cornchipsitem.name=Corn Chips
+item.marshmellowchicksitem.name=Marshmellow Chicks
+item.bbqchickenbiscuititem.name=BBQ Chicken Biscuit
+item.chickenbiscuititem.name=Chicken Biscuit
+item.pizzasliceitem.name=Pizza Sliceitem.chorusfruitsoupitem.name=Sopa de Fruta Coral
