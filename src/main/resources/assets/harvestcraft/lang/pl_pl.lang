@@ -136,10 +136,6 @@ tile.holidaycake.name=Tort świąteczny
 tile.pumpkincheesecake.name=Sernik dyniowy
 
 # Items
-item.seedbagitem.name=Torba na nasiona
-item.cropbagitem.name=Torba na plony
-item.saplingbagitem.name=Torba na sadzonki
-
 item.hardenedleatherhelmitem.name=Utwardzony skórzany hełm
 item.hardenedleatherchestitem.name=Utwardzony skórzany napierśnik
 item.hardenedleatherleggingsitem.name=Utwardzone skórzane spodnie

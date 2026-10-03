@@ -1,5 +1,10 @@
 ﻿itemGroup.harvestcraft=HarvestCraft
 
+item.desc.snack=Snack
+item.desc.lightmeal=Light meal
+item.desc.largemeal=Large meal
+item.desc.potionspeed=Speed (0:03)
+
 # Tooltips
 
 tooltip.well_block=Oh, maybe not very useful. - Sjin
@@ -12,20 +17,15 @@ tile.beehive.name=Beehive
 tile.apiary.name=Apiary
 tile.presser.name=Presser
 
-tile.honey.name=Honey Block
-tile.honeycomb.name=Honeycomb Block
-tile.pressedwax.name=Pressed Wax Block
-tile.waxcomb.name=Waxcomb Block
-
 tile.groundtrap.name=Ground Trap
 tile.watertrap.name=Water Trap
-
-tile.well.name=Well
 
 tile.waterfilter.name=Water Filter
 tile.grinder.name=Grinder
 
 tile.crate.name=Crate
+
+tile.well.name=Well
 
 tile.market.name=Market
 tile.shippingbin.name=Shipping Bin
@@ -37,10 +37,10 @@ tile.windygarden.name=Windy Garden
 tile.shadedgarden.name=Shaded Garden
 tile.soggygarden.name=Soggy Garden
 
-item.desc.snack=Snack
-item.desc.lightmeal=Light meal
-item.desc.largemeal=Large meal
-item.desc.potionspeed=Speed (0:03)
+tile.honey.name=Honey Block
+tile.honeycomb.name=Honeycomb Block
+tile.pressedwax.name=Pressed Wax Block
+tile.waxcomb.name=Waxcomb Block
 
 tile.pamalmond.name=Almond
 tile.pamapple.name=Apple
@@ -173,10 +173,6 @@ item.garliccoinitem.name=Garlic Coin
 item.cottonitem.name=Cotton
 item.wovencottonitem.name=Woven Cotton
 item.cottonseeditem.name=Cotton Seed
-
-item.seedbagitem.name=Seed Bag
-item.cropbagitem.name=Crop Bag
-item.saplingbagitem.name=Sapling Bag
 
 item.candleberryitem.name=Candleberry
 item.candleberryseeditem.name=Candleberry Seed
