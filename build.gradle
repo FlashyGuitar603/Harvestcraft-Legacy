@@ -21,7 +21,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.12zg-1"
 group = "com.pam.harvestcraft" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "harvestcraft"
+archivesBaseName = "Pam's Harvestcraft"
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {
