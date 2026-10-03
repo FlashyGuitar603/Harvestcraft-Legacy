@@ -1,34 +1,29 @@
-
-cropGrowthSpeed config option can't be set to negative
-Add Tomatillo crop in exchange for Moonlighter
-Add Dogwood tree (drops bones, special sapling dungeon drop) for Forager
-
-
-MAKE PRESSER RECIPES USE ORE DICTIONARY
-
-MAKE OPTION TO DISABLE FOOD REGISTRATION FOR TI-CON FOOD MOD
-
-Maple tree textures suck at knowing when it's done
-Paper tree textures suck at knowing when it's done
-	
-	Add Cooked Ground Meats
-	Check new machines for not giving equal amount of output
-	Fruit Syrups, Slushies, Snow Cones, Sorbet
-	Add gardens to bonemeal (configable)
-	way to disable the market and shipping bin in the config?
-
-	
-	Fix DesertCraft ticking block issue
-
-Add config'd timer to squid/sheep/llama milking, make mod to add config'd cow timer
-
-Invalid registration attempt for an Ore Dictionary item with name listAllfishraw has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
-
-Bee Sandwich - 3 queen bees, bread, butter
+To add:
 
 Add "Chiliwowaz Special" under Chimichanga
+Add Cooked Ground Meats
+Add Dogwood tree (drops bones, special sapling dungeon drop) for Forager
+Add gardens to bonemeal (configable)
+Add Tomatillo crop in exchange for Moonlighter
+Bee Sandwich - 3 queen bees, bread, butter
+Fruit Syrups, Slushies, Snow Cones, Sorbet
 
-I'm working on Harvestcraft 1.12.21zb, and the foods used to have identifiers for saturation level, and now that all harvestcraft foods do the same saturation, they've been removed... but would it be possible to fill this same field with some kind of wording (maybe even the same words) which instead of indicating the saturation level it restores, indicates the hunger level restored / Tier of the meal?
+To do:
+
+A way to disable the market and shipping bin in the config?
+Add config'd timer to squid/sheep/llama milking, make mod to add config'd cow timer
+MAKE OPTION TO DISABLE FOOD REGISTRATION FOR TI-CON FOOD MOD
+MAKE PRESSER RECIPES USE ORE DICTIONARY
+Maple, Paper tree textures suck at knowing when it's done
+
+To fix:
+
+Check new machines for not giving equal amount of output
+cropGrowthSpeed config option can't be set to negative
+Fix an invalid oredict registration: Invalid registration attempt for an Ore Dictionary item with name listAllfishraw has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
+Fix DesertCraft ticking block issue
+
+Maybe:
 
 I ask not only because the tiers of meals is COMPLETELY vague in the existing version and configs, but also because I used to be able to search in JEI for exactly the tier of meal I wanted, by for instance searching "snack" and it'd find all snacks, now the only way for me to get JEI to return all meals is to search @pam's, which returns all the component foods, tools, and machines as well. I think these labels gave us something valuable. It'd be nice if there was some way to show them again.
-
+I'm working on Harvestcraft 1.12.21zb, and the foods used to have identifiers for saturation level, and now that all harvestcraft foods do the same saturation, they've been removed... but would it be possible to fill this same field with some kind of wording (maybe even the same words) which instead of indicating the saturation level it restores, indicates the hunger level restored / Tier of the meal?
