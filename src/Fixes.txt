@@ -15,6 +15,7 @@ Add config'd timer to squid/sheep/llama milking, make mod to add config'd cow ti
 MAKE OPTION TO DISABLE FOOD REGISTRATION FOR TI-CON FOOD MOD
 MAKE PRESSER RECIPES USE ORE DICTIONARY
 Maple, Paper tree textures suck at knowing when it's done
+bbq jackfruit cannot be crafted
 
 To fix:
 
