@@ -21,7 +21,8 @@ To fix:
 Check new machines for not giving equal amount of output
 cropGrowthSpeed config option can't be set to negative
 Fix an invalid oredict registration: Invalid registration attempt for an Ore Dictionary item with name listAllfishraw has occurred. The registration has been denied to prevent crashes. The mod responsible for the registration needs to correct this.
-Fix DesertCraft ticking block issue
+DesertCraft ticking block issue
+Ground and water traps deleting their contents upon quitting a world
 
 Maybe:
 
